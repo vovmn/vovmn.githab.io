@@ -7,7 +7,7 @@
         <h1 class="page-title">Каталог продукции</h1>
 
         <button
-          v-if="activeFilter !== 'all' || searchQuery || currentPage !== 1"
+          v-if="activeFilter !== 'all' || appliedSearch || currentPage !== 1"
           @click="resetAllFilters"
           class="reset-filters-btn"
         >
@@ -24,19 +24,22 @@
               />
             </svg>
 
+            <!-- ✅ ВАЖНО: v-model теперь на searchInput -->
             <input
-              v-model="searchQuery"
+              v-model="searchInput"
               type="text"
               class="search-input"
               placeholder="Поиск товаров..."
-              @input="handleSearch"
+              @keydown.enter.prevent="applySearch"
             />
 
+            <!-- очистка поля ввода -->
             <button
-              v-if="searchQuery"
-              @click="clearSearch"
+              v-if="searchInput"
+              @click="clearSearchInput"
               class="clear-search-btn"
               type="button"
+              aria-label="Очистить"
             >
               <svg viewBox="0 0 24 24" width="18" height="18">
                 <path
@@ -47,11 +50,32 @@
             </button>
           </div>
 
-          <div v-if="searchQuery" class="search-info">
-            <span>Найдено товаров: {{ filteredProducts.length }}</span>
-            <button @click="clearSearch" class="clear-all-btn">
-              Очистить поиск
-            </button>
+          <!-- ✅ Кнопка "Найти" + инфо -->
+          <div class="search-info" v-if="searchInput || appliedSearch">
+            <span v-if="appliedSearch">Найдено товаров: {{ filteredProducts.length }}</span>
+            <span v-else>Введите запрос и нажмите Enter</span>
+
+            <div style="display:flex; gap:0.5rem; align-items:center;">
+              <button
+                class="clear-all-btn"
+                type="button"
+                @click="applySearch"
+                :disabled="!searchInput.trim()"
+                title="Применить поиск"
+              >
+                Найти
+              </button>
+
+              <button
+                v-if="appliedSearch"
+                class="clear-all-btn"
+                type="button"
+                @click="clearAppliedSearch"
+                title="Очистить примененный поиск"
+              >
+                Очистить поиск
+              </button>
+            </div>
           </div>
         </div>
 
@@ -81,8 +105,8 @@
             </button>
           </div>
 
-          <!-- Сообщение при отсутствии результатов поиска -->
-          <div v-if="searchQuery && filteredProducts.length === 0" class="no-results">
+          <!-- Сообщение при отсутствии результатов -->
+          <div v-if="appliedSearch && filteredProducts.length === 0" class="no-results">
             <svg class="no-results-icon" viewBox="0 0 24 24" width="48" height="48">
               <path
                 fill="#6b7280"
@@ -91,14 +115,15 @@
             </svg>
             <p class="no-results-title">Товары не найдены</p>
             <p class="no-results-text">
-              По запросу "{{ searchQuery }}" ничего не найдено.
-              <br />Попробуйте изменить поисковый запрос или выберите другую категорию.
+              По запросу "{{ appliedSearch }}" ничего не найдено.
+              <br />Попробуйте изменить запрос или сбросить фильтры.
             </p>
-            <button @click="clearSearch" class="back-to-catalog-btn">
+            <button @click="clearAppliedSearch" class="back-to-catalog-btn">
               Вернуться к каталогу
             </button>
           </div>
 
+          <!-- Если есть товары -->
           <template v-else-if="filteredProducts.length > 0">
             <div class="pagination-info">
               <div class="pagination-stats">
@@ -106,7 +131,6 @@
               </div>
             </div>
 
-            <!-- ✅ ВАЖНО: передаем index -->
             <div class="products-grid">
               <CardCatalog
                 v-for="(product, i) in paginatedProducts"
@@ -157,6 +181,7 @@
             </div>
           </template>
 
+          <!-- Если нет товаров -->
           <div v-else class="no-products">
             <p>Товары в этой категории скоро появятся</p>
           </div>
@@ -189,7 +214,6 @@ const route = useRoute()
 const router = useRouter()
 
 const {
-  productsData,
   loading,
   error,
   getFilteredProducts: getFilteredProductsFromComposable,
@@ -199,44 +223,77 @@ const {
 
 const categories = getAllCategories()
 
+// --- URL params -> state
 const parseUrlParams = () => {
   const params = route.query
   return {
     filter: params.filter && categories.some(c => c.id === params.filter) ? params.filter : 'all',
     page: params.page && parseInt(params.page) > 0 ? parseInt(params.page) : 1,
-    search: params.search || ''
+    search: params.search ? String(params.search) : ''
   }
 }
 
 const urlParams = parseUrlParams()
 
 const activeFilter = ref(urlParams.filter)
-const searchQuery = ref(urlParams.search)
 const currentPage = ref(urlParams.page)
+
+/**
+ * ✅ Разделяем:
+ * searchInput — что печатают
+ * appliedSearch — что реально фильтрует
+ */
+const searchInput = ref(urlParams.search)
+const appliedSearch = ref(urlParams.search)
 
 const showModal = ref(false)
 const selectedProduct = ref(null)
 const isChangingPage = ref(false)
 
-/** ✅ Индекс начала текущей страницы, чтобы приоритеты картинок работали нормально */
 const pageStartIndex = computed(() => (currentPage.value - 1) * ITEMS_PER_PAGE)
 
-const updateUrl = () => {
+// --- URL builder (search берём из appliedSearch)
+function buildQuery() {
   const query = {}
   if (activeFilter.value !== 'all') query.filter = activeFilter.value
   if (currentPage.value !== 1) query.page = String(currentPage.value)
-  if (searchQuery.value) query.search = searchQuery.value
-  router.replace({ query, hash: route.hash })
+  if (appliedSearch.value) query.search = appliedSearch.value
+  return query
 }
 
-watch(activeFilter, updateUrl)
-watch(currentPage, updateUrl)
-watch(searchQuery, updateUrl)
+function updateUrl() {
+  router.replace({ query: buildQuery(), hash: route.hash })
+}
 
-watch([activeFilter, searchQuery], () => {
+// filter/page — обновляем сразу
+watch(activeFilter, () => updateUrl())
+watch(currentPage, () => updateUrl())
+
+// если меняем фильтр — сбрасываем страницу
+watch(activeFilter, () => {
   currentPage.value = 1
 })
 
+// --- search actions
+const applySearch = () => {
+  const next = searchInput.value.trim()
+  appliedSearch.value = next
+  currentPage.value = 1
+  updateUrl()
+}
+
+const clearSearchInput = () => {
+  searchInput.value = ''
+}
+
+const clearAppliedSearch = () => {
+  searchInput.value = ''
+  appliedSearch.value = ''
+  currentPage.value = 1
+  updateUrl()
+}
+
+// --- filtering
 const safeSearch = (products, query) => {
   if (!query || query.trim() === '') return products
   const normalizedQuery = query.toLowerCase().trim()
@@ -247,15 +304,17 @@ const safeSearch = (products, query) => {
     const description = String(product.description || '').toLowerCase()
     const category = String(product.category || '').toLowerCase()
 
-    return name.includes(normalizedQuery) ||
+    return (
+      name.includes(normalizedQuery) ||
       description.includes(normalizedQuery) ||
       category.includes(normalizedQuery)
+    )
   })
 }
 
 const filteredProducts = computed(() => {
   let products = getFilteredProductsFromComposable(activeFilter.value)
-  if (searchQuery.value.trim()) products = safeSearch(products, searchQuery.value)
+  if (appliedSearch.value) products = safeSearch(products, appliedSearch.value)
   return products
 })
 
@@ -294,23 +353,14 @@ const visiblePages = computed(() => {
 
 const showEllipsis = computed(() => totalPages.value > visiblePages.value.length)
 
-let searchTimeout = null
-const handleSearch = () => {
-  clearTimeout(searchTimeout)
-  searchTimeout = setTimeout(() => {
-    if (searchQuery.value.trim() && activeFilter.value !== 'all') {
-      activeFilter.value = 'all'
-    }
-  }, 300)
-}
-
+// --- UI handlers
 const setActiveFilter = (categoryId) => {
   activeFilter.value = categoryId
-  searchQuery.value = ''
-}
-
-const clearSearch = () => {
-  searchQuery.value = ''
+  // примененный поиск сбрасываем, иначе пользователь не поймёт, почему “ничего нет”
+  searchInput.value = ''
+  appliedSearch.value = ''
+  currentPage.value = 1
+  updateUrl()
 }
 
 const changePage = (page) => {
@@ -326,6 +376,7 @@ const changePage = (page) => {
   })
 }
 
+// modal
 const openModal = (product) => {
   selectedProduct.value = product
   showModal.value = true
@@ -344,16 +395,21 @@ const handleKeyDown = (event) => {
 
 const resetAllFilters = () => {
   activeFilter.value = 'all'
-  searchQuery.value = ''
   currentPage.value = 1
+  searchInput.value = ''
+  appliedSearch.value = ''
   router.replace({ name: route.name })
 }
 
+// назад/вперед: подтягиваем URL -> состояние (и input, и applied)
 watch(() => route.query, () => {
   const newParams = parseUrlParams()
+
   activeFilter.value = newParams.filter
   currentPage.value = newParams.page
-  searchQuery.value = newParams.search
+
+  searchInput.value = newParams.search
+  appliedSearch.value = newParams.search
 })
 
 onMounted(() => {
@@ -362,12 +418,10 @@ onMounted(() => {
 
 onUnmounted(() => {
   document.removeEventListener('keydown', handleKeyDown)
-  clearTimeout(searchTimeout)
 })
 </script>
-
+ы
 <!-- style оставь как у тебя -->
-
 
 <style scoped>
 /* ТВОЙ CSS ОСТАВЛЯЮ 1в1 — без изменений */
@@ -739,13 +793,6 @@ onUnmounted(() => {
   color: #6b7280;
 }
 
-/* ======================================================
-   STICKY ВАРИАНТ (поиск + категории)
-   Работает без изменений template, но идеал — обернуть
-   search + category-filters в один контейнер.
-   Тут делаем sticky на оба блока по очереди.
-====================================================== */
-
 /* sticky-поведение для поиска */
 .search-container {
   position: sticky;
@@ -755,308 +802,31 @@ onUnmounted(() => {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
   margin-bottom: 1.5rem;
-  /* лёгкое отделение от контента */
   box-shadow: 0 6px 14px rgba(0, 0, 0, 0.04);
 }
 
-/* sticky-поведение для категорий: липнут сразу под поиском */
+/* sticky-поведение для категорий */
 .category-filters {
   position: sticky;
-  top: 96px; /* подгони под высоту search-container, если нужно */
+  top: 96px;
   z-index: 25;
   background: #f8f9fa;
   padding: 0.5rem 0.25rem 0.75rem;
   margin-bottom: 2rem;
 }
 
-/* Важно: чтобы sticky не выглядел как “плашка от госуслуг” */
-@media (max-width: 768px) {
-  .search-container {
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    margin-bottom: 1rem;
-  }
-
-  .category-filters {
-    top: 88px; /* обычно чуть меньше */
-    padding-bottom: 0.6rem;
-    margin-bottom: 1.25rem;
-  }
-}
-
-@media (max-width: 480px) {
-  .category-filters {
-    top: 84px;
-  }
-}
-
-/* Если есть модалка/скролл и нужно отключить тень — можно убрать */
-
-/* ======================================================
-   Улучшенный адаптив (чтобы было реально удобно)
-====================================================== */
-
-/* 1) Контейнер и отступы */
-.catalog-main {
-  padding: 1.5rem 0;
-}
-
-.container {
-  padding: 0 1rem;
-}
-
-@media (max-width: 768px) {
-  .catalog-main {
-    padding: 1rem 0;
-  }
-
-  .container {
-    padding: 0 0.75rem;
-  }
-}
-
-@media (max-width: 480px) {
-  .container {
-    padding: 0 0.6rem;
-  }
-}
-
-/* 2) Заголовок */
-@media (max-width: 768px) {
-  .page-title {
-    font-size: 2rem;
-    margin-bottom: 1.25rem;
-  }
-}
-@media (max-width: 480px) {
-  .page-title {
-    font-size: 1.6rem;
-    margin-bottom: 1rem;
-  }
-}
-
-/* 3) Поиск компактнее */
-@media (max-width: 768px) {
-  .search-container {
-    margin-bottom: 1.25rem;
-  }
-
-  .search-input {
-    font-size: 0.95rem;
-  }
-}
-@media (max-width: 480px) {
-  .search-box {
-    margin-bottom: 0.75rem;
-  }
-
-  .search-input {
-    padding: 0.8rem 2.5rem 0.8rem 2.4rem;
-    border-radius: 10px;
-  }
-
-  .search-icon {
-    left: 0.8rem;
-  }
-
-  .clear-search-btn {
-    right: 0.5rem;
-  }
-
-  .search-info {
-    flex-direction: column;
-    gap: 0.5rem;
-    text-align: center;
-  }
-
-  .clear-all-btn {
-    width: 100%;
-    max-width: 320px;
-  }
-}
-
-/* 4) Категории: на мобиле горизонтальный скролл вместо колонки */
-@media (max-width: 480px) {
-  .category-filters {
-    flex-direction: row;
-    justify-content: flex-start;
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    gap: 0.5rem;
-    padding: 0.25rem 0.25rem 0.6rem;
-  }
-
-  .category-filters::-webkit-scrollbar {
-    height: 6px;
-  }
-  .category-filters::-webkit-scrollbar-thumb {
-    background: #e5e7eb;
-    border-radius: 999px;
-  }
-
-  .filter-btn {
-    width: auto;
-    flex: 0 0 auto;
-    padding: 0.55rem 1rem;
-    font-size: 0.9rem;
-    border-radius: 999px;
-  }
-}
-
-/* 5) Сетка карточек: предсказуемые колонки */
-.products-grid {
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-}
-
-@media (max-width: 1200px) {
-  .products-grid {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-}
-
-@media (max-width: 900px) {
-  .products-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 1.25rem;
-  }
-}
-
-@media (max-width: 560px) {
-  .products-grid {
-    grid-template-columns: 1fr;
-    gap: 1rem;
-  }
-}
-
-/* 6) Пагинация */
-@media (max-width: 768px) {
-  .pagination {
-    gap: 0.5rem;
-    padding-top: 0.75rem;
-  }
-
-  .pagination-btn {
-    min-width: 110px;
-    padding: 0.45rem 0.75rem;
-  }
-
-  .pagination-number {
-    min-width: 36px;
-    height: 36px;
-  }
-}
-
-@media (max-width: 480px) {
-  .pagination {
-    flex-wrap: wrap;
-  }
-
-  .pagination-numbers {
-    width: 100%;
-    justify-content: center;
-    margin: 0.5rem 0;
-  }
-
-  .pagination-btn {
-    flex: 1 1 140px;
-    min-width: unset;
-  }
-}
-
-/* 7) Нет результатов */
-@media (max-width: 480px) {
-  .no-results {
-    padding: 2rem 1rem;
-  }
-
-  .no-results-title {
-    font-size: 1.25rem;
-  }
-
-  .no-results-text {
-    margin-bottom: 1.25rem;
-  }
-
-  .back-to-catalog-btn {
-    width: 100%;
-  }
-}
-
-/* 8) Сброс фильтров */
-@media (max-width: 480px) {
-  .reset-filters-btn {
-    width: 100%;
-  }
-}
-
-/* 9) Твой старый адаптив (оставляю, но он теперь частично перекрыт сверху) */
-@media (max-width: 768px) {
-  .search-box {
-    max-width: 100%;
-  }
-
-  .search-input {
-    padding: 0.875rem 2.5rem 0.875rem 2.5rem;
-  }
-
-  .category-filters {
-    gap: 0.5rem;
-  }
-
-  .filter-btn {
-    padding: 0.6rem 1.2rem;
-    font-size: 0.9rem;
-  }
-
-  .products-grid {
-    gap: 1.5rem;
-  }
-
-  .pagination {
-    flex-wrap: wrap;
-    gap: 0.5rem;
-  }
-
-  .pagination-numbers {
-    order: 1;
-    width: 100%;
-    justify-content: center;
-    margin: 0.5rem 0;
-  }
-
-  .pagination-btn {
-    min-width: 120px;
-  }
-}
-
-@media (max-width: 480px) {
-  .products-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .pagination-number {
-    min-width: 35px;
-    height: 35px;
-    font-size: 0.85rem;
-  }
-}
 /* === FIX: инпут/поиск не вылезает за экран === */
-
-/* 1) Глобально для этой страницы: чтобы padding/border не раздували ширину */
 .catalog-page,
 .catalog-page * {
   box-sizing: border-box;
 }
 
-/* 2) Контейнер точно не шире экрана */
 .container {
   width: 100%;
   max-width: 1200px;
-  overflow-x: hidden; /* убирает случайный горизонтальный скролл */
+  overflow-x: hidden;
 }
 
-/* 3) Поиск: ограничиваем ширину и позволяем сжиматься */
 .search-container {
   width: 100%;
 }
@@ -1068,18 +838,14 @@ onUnmounted(() => {
   margin-right: auto;
 }
 
-/* 4) Инпут: главный фикс — min-width: 0 и box-sizing */
 .search-input {
   width: 100%;
   min-width: 0;
   box-sizing: border-box;
 }
 
-/* 5) На всякий случай: чтобы иконки/кнопки не ломали ширину */
 .search-icon,
 .clear-search-btn {
   flex: 0 0 auto;
 }
-
-
 </style>

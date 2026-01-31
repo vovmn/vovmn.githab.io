@@ -67,7 +67,18 @@ export function useProducts() {
 
   const getProductById = (id) => {
     return productsData.value.find(product => product.id === id)
+  
   }
+
+  // допустим, добавь картинку-заглушку: src/img/placeholder.webp
+
+function resolveImagePath(p) {
+  if (!p) return imageModules["/src/img/placeholder.webp"] || ""
+
+  const key = p.startsWith("/") ? p : `/${p}`
+  return imageModules[key] || imageModules["/src/img/placeholder.webp"] || ""
+}
+
 
   const getAllCategories = () => categories.value
 
