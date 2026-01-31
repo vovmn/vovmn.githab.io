@@ -21,7 +21,7 @@
 
 
 .hero {
-  background: url(@/img/main.jpg) center / cover no-repeat;
+  background: url(@/img/main.webp) center / cover no-repeat;
   min-height: 60vh;
   display: flex;
   flex-direction: column;

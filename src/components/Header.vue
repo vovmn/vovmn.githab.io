@@ -7,7 +7,7 @@
         aria-label="Аквилон — на главную"
       >
         <img
-          src="@/img/logo.png"
+          src="@/img/logo.webp"
           alt="Аквилон"
           class="logo-image"
         />

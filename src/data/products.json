@@ -5,7 +5,7 @@
       "name": "ЛДСП Бежевый",
       "description": "ЛДСП стандартный декор Бежевый",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Бежевый.jpg",
+      "image": "/src/img/ldsp/Бежевый.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -22,7 +22,7 @@
       "name": "ЛДСП Белый шагрень",
       "description": "ЛДСП стандартный декор Белый шагрень",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Белый шагрень.jpg",
+      "image": "/src/img/ldsp/Белый шагрень.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -39,7 +39,7 @@
       "name": "ЛДСП Бодега белая",
       "description": "ЛДСП стандартный декор Бодега белая",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Бодега белая.jpg",
+      "image": "/src/img/ldsp/Бодега белая.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -56,7 +56,7 @@
       "name": "ЛДСП Вишня Оксфорд",
       "description": "ЛДСП стандартный декор Вишня Оксфорд",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Вишня Оксфорд.jpg",
+      "image": "/src/img/ldsp/Вишня Оксфорд.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -73,7 +73,7 @@
       "name": "ЛДСП Дуб Атланта",
       "description": "ЛДСП стандартный декор Дуб Атланта",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Дуб Атланта.jpg",
+      "image": "/src/img/ldsp/Дуб Атланта.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -90,7 +90,7 @@
       "name": "ЛДСП Дуб Барик темный",
       "description": "ЛДСП стандартный декор Дуб Барик темный",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Барик Темный.jpg",
+      "image": "/src/img/ldsp/Барик Темный.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -107,7 +107,7 @@
       "name": "ЛДСП Дуб Молочный",
       "description": "ЛДСП стандартный декор Дуб Молочный",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Дуб молочный (млечный).jpg",
+      "image": "/src/img/ldsp/Дуб молочный (млечный).webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -124,7 +124,7 @@
       "name": "ЛДСП Дуб Сонома светлая",
       "description": "ЛДСП стандартный декор Дуб Сонома светлая",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Дуб Сонома светлая.jpg",
+      "image": "/src/img/ldsp/Дуб Сонома светлая.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -141,7 +141,7 @@
       "name": "ЛДСП Дуб Сонома средняя",
       "description": "ЛДСП стандартный декор Дуб Сонома средняя",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Дуб Сонома средняя.jpg",
+      "image": "/src/img/ldsp/Дуб Сонома средняя.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -158,7 +158,7 @@
       "name": "ЛДСП Лайм",
       "description": "ЛДСП стандартный декор Лайм",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Лайм.jpg",
+      "image": "/src/img/ldsp/Лайм.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -175,7 +175,7 @@
       "name": "ЛДСП Ноче Гварнери",
       "description": "ЛДСП стандартный декор Ноче Гварнери",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Гварнери.jpg",
+      "image": "/src/img/ldsp/Гварнери.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -192,7 +192,7 @@
       "name": "ЛДСП Пикард",
       "description": "ЛДСП стандартный декор Пикард",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Пикард.jpg",
+      "image": "/src/img/ldsp/Пикард.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -209,7 +209,7 @@
       "name": "ЛДСП Серый",
       "description": "ЛДСП стандартный декор Серый",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Серый.jpg",
+      "image": "/src/img/ldsp/Серый.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -226,7 +226,7 @@
       "name": "ЛДСП Фисташковый",
       "description": "ЛДСП стандартный декор Фисташковый",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Фисташковый.jpg",
+      "image": "/src/img/ldsp/Фисташковый.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -243,7 +243,7 @@
       "name": "ЛДСП Ясень Анкор белый",
       "description": "ЛДСП стандартный декор Ясень Анкор белый",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Ясень Анкор Белый.jpg",
+      "image": "/src/img/ldsp/Ясень Анкор Белый.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -260,7 +260,7 @@
       "name": "ЛДСП Ясень Анкор темный",
       "description": "ЛДСП стандартный декор Ясень Анкор темный",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Ясень Анкор Темный.jpg",
+      "image": "/src/img/ldsp/Ясень Анкор Темный.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -277,7 +277,7 @@
       "name": "ЛДСП Ясень Шимо светлый",
       "description": "ЛДСП стандартный декор Ясень Шимо светлый",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Ясень Шимо светлый.jpg",
+      "image": "/src/img/ldsp/Ясень Шимо светлый.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -294,7 +294,7 @@
       "name": "ЛДСП Дуб Млечный",
       "description": "ЛДСП стандартный декор Дуб Млечный",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Дуб молочный (млечный).jpg",
+      "image": "/src/img/ldsp/Дуб молочный (млечный).webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -311,7 +311,7 @@
       "name": "ЛДСП Белый Древесные Поры",
       "description": "ЛДСП стандартный декор Белый Древесные Поры",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Белый древесные поры.jpg",
+      "image": "/src/img/ldsp/Белый древесные поры.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -328,7 +328,7 @@
       "name": "ЛДСП Венге Магия",
       "description": "ЛДСП стандартный декор Венге Магия",
       "price": "2 600 руб/лист",
-      "image": "/src/img/ldsp/Венге Магия.jpeg",
+      "image": "/src/img/ldsp/Венге Магия.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -345,7 +345,7 @@
       "name": "ЛДВП Белая",
       "description": "ЛДВП Шарья, Изоплит декор Белая",
       "price": "700 руб/лист",
-      "image": "/src/img/ldsp/Белый.jpg",
+      "image": "/src/img/ldsp/Белый.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -362,7 +362,7 @@
       "name": "ЛДВП Венге Темное",
       "description": "ЛДВП Шарья, Изоплит декор Венге Темное",
       "price": "700 руб/лист",
-      "image": "/src/img/ldsp/Венге темное.jpg",
+      "image": "/src/img/ldsp/Венге темное.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -379,7 +379,7 @@
       "name": "ЛДВП Вишня Оксфорд",
       "description": "ЛДВП Шарья, Изоплит декор Вишня Оксфорд",
       "price": "700 руб/лист",
-      "image": "/src/img/ldsp/Вишня Оксфорд.jpg",
+      "image": "/src/img/ldsp/Вишня Оксфорд.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -396,7 +396,7 @@
       "name": "ЛДВП Гварнери",
       "description": "ЛДВП Шарья, Изоплит декор Гварнери",
       "price": "700 руб/лист",
-      "image": "/src/img/ldsp/Гварнери.jpg",
+      "image": "/src/img/ldsp/Гварнери.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -413,7 +413,7 @@
       "name": "ЛДВП Ольха светлая",
       "description": "ЛДВП Шарья, Изоплит декор Ольха светлая",
       "price": "700 руб/лист",
-      "image": "/src/img/ldsp/Ольха светлая.jpeg",
+      "image": "/src/img/ldsp/Ольха светлая.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -430,7 +430,7 @@
       "name": "ЛДВП Орех итальянский",
       "description": "ЛДВП Шарья, Изоплит декор Орех итальянский",
       "price": "700 руб/лист",
-      "image": "/src/img/ldsp/Орех итальянский.jpg",
+      "image": "/src/img/ldsp/Орех итальянский.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -447,7 +447,7 @@
       "name": "ЛДВП Бук Бавария 5113 желт",
       "description": "ЛДВП Шарья, Изоплит декор Бук Бавария 5113 желт",
       "price": "700 руб/лист",
-      "image": "/src/img/ldsp/Бук Бавария 5113 желт.jpg",
+      "image": "/src/img/ldsp/Бук Бавария 5113 желт.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -464,7 +464,7 @@
       "name": "ЛДВП Серый",
       "description": "ЛДВП Шарья, Изоплит декор Серый",
       "price": "700 руб/лист",
-      "image": "/src/img/ldsp/Серый.jpg",
+      "image": "/src/img/ldsp/Серый.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -481,7 +481,7 @@
       "name": "ЛДВП Ясень Шимо Светлое",
       "description": "ЛДВП Шарья, Изоплит декор Ясень Шимо Светлое",
       "price": "700 руб/лист",
-      "image": "/src/img/ldsp/Ясень Шимо светлый.jpg",
+      "image": "/src/img/ldsp/Ясень Шимо светлый.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -498,7 +498,7 @@
       "name": "ЛДСП Айскрим",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Древесные» «Фоновые»",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/айскрим.jpg",
+      "image": "/src/img/ldsp/айскрим.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -515,7 +515,7 @@
       "name": "ЛДСП Бетон",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Древесные» «Фоновые»",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Бетон.jpg",
+      "image": "/src/img/ldsp/Бетон.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -532,7 +532,7 @@
       "name": "ЛДСП Бетон Пайн",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Древесные» «Фоновые»",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Бетон Пайн.jpg",
+      "image": "/src/img/ldsp/Бетон Пайн.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -549,7 +549,7 @@
       "name": "ЛДСП Винтерберг",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Древесные» «Фоновые»",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Винтерберг.jpg",
+      "image": "/src/img/ldsp/Винтерберг.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -566,7 +566,7 @@
       "name": "ЛДСП Графит",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Древесные» «Фоновые»",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Графит.jpg",
+      "image": "/src/img/ldsp/Графит.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -583,7 +583,7 @@
       "name": "ЛДСП Дуб Бунратти",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Древесные» «Фоновые»",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Бунратти.jpg",
+      "image": "/src/img/ldsp/Бунратти.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -600,7 +600,7 @@
       "name": "ЛДСП Катхульт",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Древесные» «Фоновые»",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Катхульт.jpg",
+      "image": "/src/img/ldsp/Катхульт.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -617,7 +617,7 @@
       "name": "ЛДСП Месмери",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Древесные» «Фоновые»",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Месмери.jpg",
+      "image": "/src/img/ldsp/Месмери.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -634,7 +634,7 @@
       "name": "ЛДСП Металлик",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Древесные» «Фоновые»",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Металлик.jpg",
+      "image": "/src/img/ldsp/Металлик.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -651,7 +651,7 @@
       "name": "ЛДСП Юта",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Древесные» «Фоновые»",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Юта.jpg",
+      "image": "/src/img/ldsp/Юта.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -668,7 +668,7 @@
       "name": "ЛДСП Кэнди",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Древесные» «Фоновые»",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Кэнди.jpg",
+      "image": "/src/img/ldsp/Кэнди.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -685,7 +685,7 @@
       "name": "ЛДСП Цемент",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Древесные» «Фоновые»",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Цемент.jpg",
+      "image": "/src/img/ldsp/Цемент.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -702,7 +702,7 @@
       "name": "ЛДСП Серый Темный",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Древесные» «Фоновые»",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Серый Темный.jpg",
+      "image": "/src/img/ldsp/Серый Темный.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -719,7 +719,7 @@
       "name": "ЛДСП Слоновая Кость",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Древесные» «Фоновые»",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Слоновая Кость.jpg",
+      "image": "/src/img/ldsp/Слоновая Кость.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -736,7 +736,7 @@
       "name": "ЛДСП Дуб Вотан",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Древесные» «Фоновые»",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Дуб вотан.jpeg",
+      "image": "/src/img/ldsp/Дуб вотан.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -753,7 +753,7 @@
       "name": "ЛДСП Дуб Делано",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Древесные» «Фоновые»",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Дуб делано.jpg",
+      "image": "/src/img/ldsp/Дуб делано.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -770,7 +770,7 @@
       "name": "ЛДСП Ясень Анкор белый",
       "description": "ЛДСП SWISS KRONO категория «Древесные»",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Ясень Анкор Белый.jpg",
+      "image": "/src/img/ldsp/Ясень Анкор Белый.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -787,7 +787,7 @@
       "name": "ЛДСП Белый древесные поры",
       "description": "ЛДСП SWISS KRONO категория «Древесные»",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Белый древесные поры.jpg",
+      "image": "/src/img/ldsp/Белый древесные поры.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -804,7 +804,7 @@
       "name": "ЛДСП Красный",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Эффект»",
       "price": "3 300 руб/лист",
-      "image": "/src/img/ldsp/Красный.jpg",
+      "image": "/src/img/ldsp/Красный.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -821,7 +821,7 @@
       "name": "ЛДСП Мокко",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Эффект»",
       "price": "3 300 руб/лист",
-      "image": "/src/img/ldsp/Мокко.jpg",
+      "image": "/src/img/ldsp/Мокко.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -838,7 +838,7 @@
       "name": "ЛДСП Сосна Северная",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Эффект»",
       "price": "3 300 руб/лист",
-      "image": "/src/img/ldsp/Северная Сосна.jpg",
+      "image": "/src/img/ldsp/Северная Сосна.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -855,7 +855,7 @@
       "name": "ЛДСП Уран",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Эффект»",
       "price": "3 300 руб/лист",
-      "image": "/src/img/ldsp/Уран.jpg",
+      "image": "/src/img/ldsp/Уран.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -872,7 +872,7 @@
       "name": "ЛДСП Дуб Амберг",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Эффект»",
       "price": "3 300 руб/лист",
-      "image": "/src/img/ldsp/Дуб Амберг Серо-коричневый.jpg",
+      "image": "/src/img/ldsp/Дуб Амберг Серо-коричневый.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -889,7 +889,7 @@
       "name": "ЛДСП Серый Кварцит",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Эффект»",
       "price": "3 300 руб/лист",
-      "image": "/src/img/ldsp/Серый Кварцит.jpg",
+      "image": "/src/img/ldsp/Серый Кварцит.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -906,7 +906,7 @@
       "name": "ЛДСП Белая Аляска",
       "description": "ЛДСП МОНЗА, SWISS KRONO категория «Эффект»",
       "price": "3 300 руб/лист",
-      "image": "/src/img/ldsp/аляска белая.jpg",
+      "image": "/src/img/ldsp/аляска белая.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -923,7 +923,7 @@
       "name": "ЛДСП Белый шагрень",
       "description": "ЛДСП РосПлит, МОНЗА",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Белый шагрень.jpg",
+      "image": "/src/img/ldsp/Белый шагрень.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -940,7 +940,7 @@
       "name": "ЛДСП Винтерберг",
       "description": "ЛДСП РосПлит, МОНЗА",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Винтерберг.jpg",
+      "image": "/src/img/ldsp/Винтерберг.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -957,7 +957,7 @@
       "name": "ЛДСП Дуб Млечный",
       "description": "ЛДСП РосПлит, МОНЗА",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Дуб молочный (млечный).jpg",
+      "image": "/src/img/ldsp/Дуб молочный (млечный).webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -974,7 +974,7 @@
       "name": "ЛДСП Кремовый",
       "description": "ЛДСП РосПлит, МОНЗА",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Кремовый.jpg",
+      "image": "/src/img/ldsp/Кремовый.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -991,7 +991,7 @@
       "name": "ЛДСП Ясень Шимо светлый",
       "description": "ЛДСП РосПлит, МОНЗА",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Ясень Шимо светлый.jpg",
+      "image": "/src/img/ldsp/Ясень Шимо светлый.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -1008,7 +1008,7 @@
       "name": "ЛДСП Ясень Шимо темный",
       "description": "ЛДСП РосПлит, МОНЗА",
       "price": "3 000 руб/лист",
-      "image": "/src/img/ldsp/Ясень Шимо темный.jpg",
+      "image": "/src/img/ldsp/Ясень Шимо темный.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -1025,7 +1025,7 @@
       "name": "ЛДСП Белый (Лофт)",
       "description": "ЛДСП РосПлит, МОНЗА",
       "price": "3 200 руб/лист",
-      "image": "/src/img/ldsp/Камень светлый ЛОФТ.jpg",
+      "image": "/src/img/ldsp/Камень светлый ЛОФТ.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -1042,7 +1042,7 @@
       "name": "ЛДСП Камень темный",
       "description": "ЛДСП РосПлит, МОНЗА",
       "price": "3 400 руб/лист",
-      "image": "/src/img/ldsp/Камень Темный ЛОФТ.jpg",
+      "image": "/src/img/ldsp/Камень Темный ЛОФТ.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -1059,7 +1059,7 @@
       "name": "ЛДСП Гонконг",
       "description": "ЛДСП SWISS KRONO",
       "price": "4 100 руб/лист",
-      "image": "/src/img/ldsp/Гонконг.jpg",
+      "image": "/src/img/ldsp/Гонконг.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -1076,7 +1076,7 @@
       "name": "ХДФО Белая",
       "description": "ХДФО Белая",
       "price": "1 500 руб/лист",
-      "image": "/src/img/ldsp/Белый.jpg",
+      "image": "/src/img/ldsp/Белый.webp",
       "category": "ldsp",
       "sizes": [
         {
@@ -1094,7 +1094,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Венге.jpg",
+      "image": "/src/img/countertops/Венге.webp",
       "sizes": [
         {
           "id": 418,
@@ -1118,7 +1118,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Белый.jpg",
+      "image": "/src/img/countertops/Белый.webp",
       "sizes": [
         {
           "id": 420,
@@ -1149,7 +1149,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Северное солнце.jpg",
+      "image": "/src/img/countertops/Северное солнце.webp",
       "sizes": [
         {
           "id": 423,
@@ -1173,7 +1173,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Дуб Бунрати.jpg",
+      "image": "/src/img/countertops/Дуб Бунрати.webp",
       "sizes": [
         {
           "id": 425,
@@ -1204,7 +1204,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Бискайская сосна.jpg",
+      "image": "/src/img/countertops/Бискайская сосна.webp",
       "sizes": [
         {
           "id": 428,
@@ -1235,7 +1235,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Альмандин.jpg",
+      "image": "/src/img/countertops/Альмандин.webp",
       "sizes": [
         {
           "id": 431,
@@ -1266,7 +1266,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Сосна Осло.jpg",
+      "image": "/src/img/countertops/Сосна Осло.webp",
       "sizes": [
         {
           "id": 434,
@@ -1290,7 +1290,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Дуб вотан.jpeg",
+      "image": "/src/img/countertops/Дуб вотан.webp",
       "sizes": [
         {
           "id": 436,
@@ -1321,7 +1321,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Мрамор Золотой.jpg",
+      "image": "/src/img/countertops/Мрамор Золотой.webp",
       "sizes": [
         {
           "id": 439,
@@ -1345,7 +1345,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Аурум.jpg",
+      "image": "/src/img/countertops/Аурум.webp",
       "sizes": [
         {
           "id": 441,
@@ -1376,7 +1376,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Витрум Графит.jpg",
+      "image": "/src/img/countertops/Витрум Графит.webp",
       "sizes": [
         {
           "id": 444,
@@ -1400,7 +1400,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Олива жемчужная.jpg",
+      "image": "/src/img/countertops/Олива жемчужная.webp",
       "sizes": [
         {
           "id": 446,
@@ -1431,7 +1431,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Дуб флагстаф светлый.jpg",
+      "image": "/src/img/countertops/Дуб флагстаф светлый.webp",
       "sizes": [
         {
           "id": 449,
@@ -1455,7 +1455,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Оникс Азул.jpg",
+      "image": "/src/img/countertops/Оникс Азул.webp",
       "sizes": [
         {
           "id": 451,
@@ -1479,7 +1479,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Сахара Белая.jpg",
+      "image": "/src/img/countertops/Сахара Белая.webp",
       "sizes": [
         {
           "id": 453,
@@ -1510,7 +1510,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Мадрид.jpg",
+      "image": "/src/img/countertops/Мадрид.webp",
       "sizes": [
         {
           "id": 456,
@@ -1541,7 +1541,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Вяз.jpg",
+      "image": "/src/img/countertops/Вяз.webp",
       "sizes": [
         {
           "id": 459,
@@ -1572,7 +1572,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Беррил Бежевый.jpg",
+      "image": "/src/img/countertops/Беррил Бежевый.webp",
       "sizes": [
         {
           "id": 462,
@@ -1603,7 +1603,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Берилл голубой.jpg",
+      "image": "/src/img/countertops/Берилл голубой.webp",
       "sizes": [
         {
           "id": 465,
@@ -1627,7 +1627,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Марсель.jpg",
+      "image": "/src/img/countertops/Марсель.webp",
       "sizes": [
         {
           "id": 467,
@@ -1658,7 +1658,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Королевский опал светлый.jpg",
+      "image": "/src/img/countertops/Королевский опал светлый.webp",
       "sizes": [
         {
           "id": 470,
@@ -1689,7 +1689,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Королевский опал.jpg",
+      "image": "/src/img/countertops/Королевский опал.webp",
       "sizes": [
         {
           "id": 473,
@@ -1720,7 +1720,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Шоколадный опал.jpg",
+      "image": "/src/img/countertops/Шоколадный опал.webp",
       "sizes": [
         {
           "id": 476,
@@ -1751,7 +1751,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Гранатовый опал.jpg",
+      "image": "/src/img/countertops/Гранатовый опал.webp",
       "sizes": [
         {
           "id": 479,
@@ -1775,7 +1775,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Золотая венеция.jpg",
+      "image": "/src/img/countertops/Золотая венеция.webp",
       "sizes": [
         {
           "id": 481,
@@ -1799,7 +1799,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Венеция.jpg",
+      "image": "/src/img/countertops/Венеция.webp",
       "sizes": [
         {
           "id": 483,
@@ -1823,7 +1823,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Альберика глянец.jpg",
+      "image": "/src/img/countertops/Альберика глянец.webp",
       "sizes": [
         {
           "id": 485,
@@ -1854,7 +1854,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Версаль.jpg",
+      "image": "/src/img/countertops/Версаль.webp",
       "sizes": [
         {
           "id": 488,
@@ -1885,7 +1885,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Серебряный лес.jpg",
+      "image": "/src/img/countertops/Серебряный лес.webp",
       "sizes": [
         {
           "id": 491,
@@ -1909,7 +1909,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Марквина глянец.jpg",
+      "image": "/src/img/countertops/Марквина глянец.webp",
       "sizes": [
         {
           "id": 493,
@@ -1933,7 +1933,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Дуб Кера.jpg",
+      "image": "/src/img/countertops/Дуб Кера.webp",
       "sizes": [
         {
           "id": 495,
@@ -1957,7 +1957,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Мрамор Империал темный.jpg",
+      "image": "/src/img/countertops/Мрамор Империал темный.webp",
       "sizes": [
         {
           "id": 497,
@@ -1981,7 +1981,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Мрамор Калакатта золотой.jpg",
+      "image": "/src/img/countertops/Мрамор Калакатта золотой.webp",
       "sizes": [
         {
           "id": 499,
@@ -2005,7 +2005,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Скала.jpg",
+      "image": "/src/img/countertops/Скала.webp",
       "sizes": [
         {
           "id": 501,
@@ -2029,7 +2029,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Дуб корсика светлый.jpg",
+      "image": "/src/img/countertops/Дуб корсика светлый.webp",
       "sizes": [
         {
           "id": 503,
@@ -2060,7 +2060,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Дуб корсика темный.jpg",
+      "image": "/src/img/countertops/Дуб корсика темный.webp",
       "sizes": [
         {
           "id": 506,
@@ -2084,7 +2084,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Алтай.jpg",
+      "image": "/src/img/countertops/Алтай.webp",
       "sizes": [
         {
           "id": 508,
@@ -2108,7 +2108,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Северный дуб.jpg",
+      "image": "/src/img/countertops/Северный дуб.webp",
       "sizes": [
         {
           "id": 510,
@@ -2132,7 +2132,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Кантри.jpg",
+      "image": "/src/img/countertops/Кантри.webp",
       "sizes": [
         {
           "id": 512,
@@ -2156,7 +2156,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Белый тунис.jpg",
+      "image": "/src/img/countertops/Белый тунис.webp",
       "sizes": [
         {
           "id": 514,
@@ -2180,7 +2180,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Гранит черный.jpg",
+      "image": "/src/img/countertops/Гранит черный.webp",
       "sizes": [
         {
           "id": 516,
@@ -2204,7 +2204,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Сахара черная.jpg",
+      "image": "/src/img/countertops/Сахара черная.webp",
       "sizes": [
         {
           "id": 518,
@@ -2228,7 +2228,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Паладина коричневая.jpg",
+      "image": "/src/img/countertops/Паладина коричневая.webp",
       "sizes": [
         {
           "id": 520,
@@ -2252,7 +2252,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Паладина серая.jpg",
+      "image": "/src/img/countertops/Паладина серая.webp",
       "sizes": [
         {
           "id": 522,
@@ -2276,7 +2276,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Аламбра.jpg",
+      "image": "/src/img/countertops/Аламбра.webp",
       "sizes": [
         {
           "id": 524,
@@ -2307,7 +2307,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Аламбра темная.jpg",
+      "image": "/src/img/countertops/Аламбра темная.webp",
       "sizes": [
         {
           "id": 527,
@@ -2331,7 +2331,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Геперион светлый.jpg",
+      "image": "/src/img/countertops/Геперион светлый.webp",
       "sizes": [
         {
           "id": 529,
@@ -2355,7 +2355,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Геперион бежевый.jpg",
+      "image": "/src/img/countertops/Геперион бежевый.webp",
       "sizes": [
         {
           "id": 531,
@@ -2379,7 +2379,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Этория.jpg",
+      "image": "/src/img/countertops/Этория.webp",
       "sizes": [
         {
           "id": 533,
@@ -2403,7 +2403,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Обожжённый дуб.jpg",
+      "image": "/src/img/countertops/Обожжённый дуб.webp",
       "sizes": [
         {
           "id": 535,
@@ -2434,7 +2434,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Черный тунис.jpg",
+      "image": "/src/img/countertops/Черный тунис.webp",
       "sizes": [
         {
           "id": 538,
@@ -2458,7 +2458,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Полярная звезда.jpg",
+      "image": "/src/img/countertops/Полярная звезда.webp",
       "sizes": [
         {
           "id": 540,
@@ -2482,7 +2482,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Дуб Прованс.jpg",
+      "image": "/src/img/countertops/Дуб Прованс.webp",
       "sizes": [
         {
           "id": 542,
@@ -2506,7 +2506,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Дуб Экспрессив.jpg",
+      "image": "/src/img/countertops/Дуб Экспрессив.webp",
       "sizes": [
         {
           "id": 544,
@@ -2530,7 +2530,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Дуб Ниагара.jpg",
+      "image": "/src/img/countertops/Дуб Ниагара.webp",
       "sizes": [
         {
           "id": 546,
@@ -2561,7 +2561,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Мрамор Аргентина.jpg",
+      "image": "/src/img/countertops/Мрамор Аргентина.webp",
       "sizes": [
         {
           "id": 549,
@@ -2585,7 +2585,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Канадский дуб.jpg",
+      "image": "/src/img/countertops/Канадский дуб.webp",
       "sizes": [
         {
           "id": 551,
@@ -2616,7 +2616,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Дуб Сканди.jpg",
+      "image": "/src/img/countertops/Дуб Сканди.webp",
       "sizes": [
         {
           "id": 554,
@@ -2640,7 +2640,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Северная пальмира.jpg",
+      "image": "/src/img/countertops/Северная пальмира.webp",
       "sizes": [
         {
           "id": 556,
@@ -2664,7 +2664,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Гранит белый.jpg",
+      "image": "/src/img/countertops/Гранит белый.webp",
       "sizes": [
         {
           "id": 558,
@@ -2688,7 +2688,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Дуб серебристый.jpg",
+      "image": "/src/img/countertops/Дуб серебристый.webp",
       "sizes": [
         {
           "id": 560,
@@ -2712,7 +2712,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Мрамор Саламанка.jpg",
+      "image": "/src/img/countertops/Мрамор Саламанка.webp",
       "sizes": [
         {
           "id": 562,
@@ -2743,7 +2743,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Канадская хижина.jpg",
+      "image": "/src/img/countertops/Канадская хижина.webp",
       "sizes": [
         {
           "id": 565,
@@ -2767,7 +2767,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Белая метель.jpg",
+      "image": "/src/img/countertops/Белая метель.webp",
       "sizes": [
         {
           "id": 567,
@@ -2791,7 +2791,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Бриллиант белый.jpg",
+      "image": "/src/img/countertops/Бриллиант белый.webp",
       "sizes": [
         {
           "id": 569,
@@ -2822,7 +2822,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Бриллиант черный.jpg",
+      "image": "/src/img/countertops/Бриллиант черный.webp",
       "sizes": [
         {
           "id": 572,
@@ -2846,7 +2846,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Галактика.jpg",
+      "image": "/src/img/countertops/Галактика.webp",
       "sizes": [
         {
           "id": 574,
@@ -2870,7 +2870,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Алюминий.jpg",
+      "image": "/src/img/countertops/Алюминий.webp",
       "sizes": [
         {
           "id": 576,
@@ -2894,7 +2894,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Артстоун.jpg",
+      "image": "/src/img/countertops/Артстоун.webp",
       "sizes": [
         {
           "id": 578,
@@ -2918,7 +2918,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Аргус светлый.jpeg",
+      "image": "/src/img/countertops/Аргус светлый.webp",
       "sizes": [
         {
           "id": 580,
@@ -2942,7 +2942,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Диамант.jpg",
+      "image": "/src/img/countertops/Диамант.webp",
       "sizes": [
         {
           "id": 582,
@@ -2973,7 +2973,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Аргус темный.png",
+      "image": "/src/img/countertops/Аргус темный.webp",
       "sizes": [
         {
           "id": 585,
@@ -2997,7 +2997,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Кастилло темный.jpg",
+      "image": "/src/img/countertops/Кастилло темный.webp",
       "sizes": [
         {
           "id": 587,
@@ -3028,7 +3028,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Оникс коричневый.jpeg",
+      "image": "/src/img/countertops/Оникс коричневый.webp",
       "sizes": [
         {
           "id": 590,
@@ -3052,7 +3052,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Кианит.jpg",
+      "image": "/src/img/countertops/Кианит.webp",
       "sizes": [
         {
           "id": 592,
@@ -3083,7 +3083,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Малага.jpg",
+      "image": "/src/img/countertops/Малага.webp",
       "sizes": [
         {
           "id": 595,
@@ -3114,7 +3114,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Винтажное дерево.jpg",
+      "image": "/src/img/countertops/Винтажное дерево.webp",
       "sizes": [
         {
           "id": 598,
@@ -3138,7 +3138,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Травертин серый.jpg",
+      "image": "/src/img/countertops/Травертин серый.webp",
       "sizes": [
         {
           "id": 600,
@@ -3162,7 +3162,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Мрамор итальянский.jpg",
+      "image": "/src/img/countertops/Мрамор итальянский.webp",
       "sizes": [
         {
           "id": 602,
@@ -3193,7 +3193,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Травертин.jpg",
+      "image": "/src/img/countertops/Травертин.webp",
       "sizes": [
         {
           "id": 605,
@@ -3217,7 +3217,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Мрамор Рускеала.jpg",
+      "image": "/src/img/countertops/Мрамор Рускеала.webp",
       "sizes": [
         {
           "id": 607,
@@ -3241,7 +3241,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Бетон.jpg",
+      "image": "/src/img/countertops/Бетон.webp",
       "sizes": [
         {
           "id": 609,
@@ -3265,7 +3265,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Каспий черное золото.jpg",
+      "image": "/src/img/countertops/Каспий черное золото.webp",
       "sizes": [
         {
           "id": 611,
@@ -3296,7 +3296,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Слоновая Кость.jpg",
+      "image": "/src/img/countertops/Слоновая Кость.webp",
       "sizes": [
         {
           "id": 614,
@@ -3327,7 +3327,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Бронзовый каспий.jpg",
+      "image": "/src/img/countertops/Бронзовый каспий.webp",
       "sizes": [
         {
           "id": 617,
@@ -3358,7 +3358,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Белый каспий.jpg",
+      "image": "/src/img/countertops/Белый каспий.webp",
       "sizes": [
         {
           "id": 620,
@@ -3389,7 +3389,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Серый Каспий.jpg",
+      "image": "/src/img/countertops/Серый Каспий.webp",
       "sizes": [
         {
           "id": 623,
@@ -3420,7 +3420,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Дуб флагстаф темный.jpg",
+      "image": "/src/img/countertops/Дуб флагстаф темный.webp",
       "sizes": [
         {
           "id": 626,
@@ -3444,7 +3444,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Оникс дымчатый.jpg",
+      "image": "/src/img/countertops/Оникс дымчатый.webp",
       "sizes": [
         {
           "id": 628,
@@ -3468,7 +3468,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Дуб флагстаф.jpg",
+      "image": "/src/img/countertops/Дуб флагстаф.webp",
       "sizes": [
         {
           "id": 630,
@@ -3499,7 +3499,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Оникс темный графит.jpg",
+      "image": "/src/img/countertops/Оникс темный графит.webp",
       "sizes": [
         {
           "id": 633,
@@ -3523,7 +3523,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Орех Пекан.jpg",
+      "image": "/src/img/countertops/Орех Пекан.webp",
       "sizes": [
         {
           "id": 635,
@@ -3554,7 +3554,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Орех Макассар.jpg",
+      "image": "/src/img/countertops/Орех Макассар.webp",
       "sizes": [
         {
           "id": 638,
@@ -3578,7 +3578,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Дуб Мелвилл.jpg",
+      "image": "/src/img/countertops/Дуб Мелвилл.webp",
       "sizes": [
         {
           "id": 640,
@@ -3602,7 +3602,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Золотистый дуб.jpg",
+      "image": "/src/img/countertops/Золотистый дуб.webp",
       "sizes": [
         {
           "id": 642,
@@ -3633,7 +3633,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Луна.jpg",
+      "image": "/src/img/countertops/Луна.webp",
       "sizes": [
         {
           "id": 645,
@@ -3664,7 +3664,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Белый.jpg",
+      "image": "/src/img/countertops/Белый.webp",
       "sizes": [
         {
           "id": 648,
@@ -3695,7 +3695,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Дуб вотан.jpeg",
+      "image": "/src/img/countertops/Дуб вотан.webp",
       "sizes": [
         {
           "id": 651,
@@ -3719,7 +3719,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Аурум.jpg",
+      "image": "/src/img/countertops/Аурум.webp",
       "sizes": [
         {
           "id": 653,
@@ -3743,7 +3743,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Олива жемчужная.jpg",
+      "image": "/src/img/countertops/Олива жемчужная.webp",
       "sizes": [
         {
           "id": 655,
@@ -3774,7 +3774,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Королевский опал светлый.jpg",
+      "image": "/src/img/countertops/Королевский опал светлый.webp",
       "sizes": [
         {
           "id": 658,
@@ -3805,7 +3805,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Королевский опал.jpg",
+      "image": "/src/img/countertops/Королевский опал.webp",
       "sizes": [
         {
           "id": 661,
@@ -3836,7 +3836,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Шоколадный опал.jpg",
+      "image": "/src/img/countertops/Шоколадный опал.webp",
       "sizes": [
         {
           "id": 664,
@@ -3860,7 +3860,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Альберика глянец.jpg",
+      "image": "/src/img/countertops/Альберика глянец.webp",
       "sizes": [
         {
           "id": 666,
@@ -3891,7 +3891,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Версаль.jpg",
+      "image": "/src/img/countertops/Версаль.webp",
       "sizes": [
         {
           "id": 669,
@@ -3922,7 +3922,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Серебряный лес.jpg",
+      "image": "/src/img/countertops/Серебряный лес.webp",
       "sizes": [
         {
           "id": 672,
@@ -3946,7 +3946,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Марквина глянец.jpg",
+      "image": "/src/img/countertops/Марквина глянец.webp",
       "sizes": [
         {
           "id": 674,
@@ -3977,7 +3977,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Черное серебро глянец.jpg",
+      "image": "/src/img/countertops/Черное серебро глянец.webp",
       "sizes": [
         {
           "id": 677,
@@ -4001,7 +4001,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Черная бронза глянец.jpg",
+      "image": "/src/img/countertops/Черная бронза глянец.webp",
       "sizes": [
         {
           "id": 679,
@@ -4025,7 +4025,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Гранит черный.jpg",
+      "image": "/src/img/countertops/Гранит черный.webp",
       "sizes": [
         {
           "id": 681,
@@ -4049,7 +4049,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Сахара черная.jpg",
+      "image": "/src/img/countertops/Сахара черная.webp",
       "sizes": [
         {
           "id": 683,
@@ -4073,7 +4073,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Паладина коричневая.jpg",
+      "image": "/src/img/countertops/Паладина коричневая.webp",
       "sizes": [
         {
           "id": 685,
@@ -4097,7 +4097,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Аламбра.jpg",
+      "image": "/src/img/countertops/Аламбра.webp",
       "sizes": [
         {
           "id": 687,
@@ -4121,7 +4121,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Черный тунис.jpg",
+      "image": "/src/img/countertops/Черный тунис.webp",
       "sizes": [
         {
           "id": 689,
@@ -4152,7 +4152,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Мрамор Аргентина.jpg",
+      "image": "/src/img/countertops/Мрамор Аргентина.webp",
       "sizes": [
         {
           "id": 692,
@@ -4176,7 +4176,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Гранит белый.jpg",
+      "image": "/src/img/countertops/Гранит белый.webp",
       "sizes": [
         {
           "id": 694,
@@ -4200,7 +4200,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Мрамор Саламанка.jpg",
+      "image": "/src/img/countertops/Мрамор Саламанка.webp",
       "sizes": [
         {
           "id": 696,
@@ -4224,7 +4224,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Алюминий.jpg",
+      "image": "/src/img/countertops/Алюминий.webp",
       "sizes": [
         {
           "id": 698,
@@ -4248,7 +4248,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Артстоун.jpg",
+      "image": "/src/img/countertops/Артстоун.webp",
       "sizes": [
         {
           "id": 700,
@@ -4272,7 +4272,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Аргус светлый.jpeg",
+      "image": "/src/img/countertops/Аргус светлый.webp",
       "sizes": [
         {
           "id": 702,
@@ -4296,7 +4296,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Малага.jpg",
+      "image": "/src/img/countertops/Малага.webp",
       "sizes": [
         {
           "id": 704,
@@ -4320,7 +4320,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Травертин серый.jpg",
+      "image": "/src/img/countertops/Травертин серый.webp",
       "sizes": [
         {
           "id": 706,
@@ -4344,7 +4344,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Мрамор итальянский.jpg",
+      "image": "/src/img/countertops/Мрамор итальянский.webp",
       "sizes": [
         {
           "id": 708,
@@ -4375,7 +4375,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Травертин.jpg",
+      "image": "/src/img/countertops/Травертин.webp",
       "sizes": [
         {
           "id": 711,
@@ -4399,7 +4399,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Лен глянец.jpg",
+      "image": "/src/img/countertops/Лен глянец.webp",
       "sizes": [
         {
           "id": 713,
@@ -4423,7 +4423,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Каспий черное золото.jpg",
+      "image": "/src/img/countertops/Каспий черное золото.webp",
       "sizes": [
         {
           "id": 715,
@@ -4447,7 +4447,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Белый каспий.jpg",
+      "image": "/src/img/countertops/Белый каспий.webp",
       "sizes": [
         {
           "id": 717,
@@ -4471,7 +4471,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Оникс темный графит.jpg",
+      "image": "/src/img/countertops/Оникс темный графит.webp",
       "sizes": [
         {
           "id": 719,
@@ -4495,7 +4495,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Орех Макассар.jpg",
+      "image": "/src/img/countertops/Орех Макассар.webp",
       "sizes": [
         {
           "id": 721,
@@ -4519,7 +4519,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 5600 руб.",
-      "image": "/src/img/countertops/Ледяная искра белая глянец.jpg",
+      "image": "/src/img/countertops/Ледяная искра белая глянец.webp",
       "sizes": [
         {
           "id": 723,
@@ -4550,7 +4550,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 5600 руб.",
-      "image": "/src/img/countertops/Ледяная искра темная глянец.jpg",
+      "image": "/src/img/countertops/Ледяная искра темная глянец.webp",
       "sizes": [
         {
           "id": 726,
@@ -4581,7 +4581,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 5600 руб.",
-      "image": "/src/img/countertops/Артстоун.jpg",
+      "image": "/src/img/countertops/Артстоун.webp",
       "sizes": [
         {
           "id": 729,
@@ -4605,7 +4605,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 5600 руб.",
-      "image": "/src/img/countertops/Диамант.jpg",
+      "image": "/src/img/countertops/Диамант.webp",
       "sizes": [
         {
           "id": 731,
@@ -4629,7 +4629,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 5600 руб.",
-      "image": "/src/img/countertops/Черный королевский жемчуг 3D.gif",
+      "image": "/src/img/countertops/Черный королевский жемчуг 3D.webp",
       "sizes": [
         {
           "id": 733,
@@ -4660,7 +4660,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 5600 руб.",
-      "image": "/src/img/countertops/Белый жемчуг.png",
+      "image": "/src/img/countertops/Белый жемчуг.webp",
       "sizes": [
         {
           "id": 736,
@@ -4691,7 +4691,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Алюминиевая рябь.jpg",
+      "image": "/src/img/countertops/Алюминиевая рябь.webp",
       "sizes": [
         {
           "id": 739,
@@ -4715,7 +4715,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Корень вяза.jpg",
+      "image": "/src/img/countertops/Корень вяза.webp",
       "sizes": [
         {
           "id": 741,
@@ -4739,7 +4739,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Г Мистик светлый.jpg",
+      "image": "/src/img/countertops/Г Мистик светлый.webp",
       "sizes": [
         {
           "id": 743,
@@ -4763,7 +4763,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Эдельвейс.jpg",
+      "image": "/src/img/countertops/Эдельвейс.webp",
       "sizes": [
         {
           "id": 745,
@@ -4787,7 +4787,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Дуглас темный.jpg",
+      "image": "/src/img/countertops/Дуглас темный.webp",
       "sizes": [
         {
           "id": 747,
@@ -4811,7 +4811,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Зимние ветви.jpg",
+      "image": "/src/img/countertops/Зимние ветви.webp",
       "sizes": [
         {
           "id": 749,
@@ -4835,7 +4835,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Бежевый металл.jpg",
+      "image": "/src/img/countertops/Бежевый металл.webp",
       "sizes": [
         {
           "id": 751,
@@ -4859,7 +4859,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Лино Бьянко.jpg",
+      "image": "/src/img/countertops/Лино Бьянко.webp",
       "sizes": [
         {
           "id": 753,
@@ -4883,7 +4883,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Берил.jpg",
+      "image": "/src/img/countertops/Берил.webp",
       "sizes": [
         {
           "id": 755,
@@ -4907,7 +4907,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Асфальт.jpg",
+      "image": "/src/img/countertops/Асфальт.webp",
       "sizes": [
         {
           "id": 757,
@@ -4931,7 +4931,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/Черногория.jpg",
+      "image": "/src/img/countertops/Черногория.webp",
       "sizes": [
         {
           "id": 759,
@@ -4955,7 +4955,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3100 руб.",
-      "image": "/src/img/countertops/бук.jpg",
+      "image": "/src/img/countertops/бук.webp",
       "sizes": [
         {
           "id": 761,
@@ -4979,7 +4979,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Мрамор зеленый.jpg",
+      "image": "/src/img/countertops/Мрамор зеленый.webp",
       "sizes": [
         {
           "id": 763,
@@ -5003,7 +5003,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Венге седой.jpg",
+      "image": "/src/img/countertops/Венге седой.webp",
       "sizes": [
         {
           "id": 765,
@@ -5027,7 +5027,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Белый узор.jpg",
+      "image": "/src/img/countertops/Белый узор.webp",
       "sizes": [
         {
           "id": 767,
@@ -5051,7 +5051,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Сланец.jpg",
+      "image": "/src/img/countertops/Сланец.webp",
       "sizes": [
         {
           "id": 769,
@@ -5075,7 +5075,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Голубой каньон.jpg",
+      "image": "/src/img/countertops/Голубой каньон.webp",
       "sizes": [
         {
           "id": 771,
@@ -5099,7 +5099,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Белый дуб.jpg",
+      "image": "/src/img/countertops/Белый дуб.webp",
       "sizes": [
         {
           "id": 773,
@@ -5123,7 +5123,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Оникс(мрамор бежевый).jpg",
+      "image": "/src/img/countertops/Оникс(мрамор бежевый).webp",
       "sizes": [
         {
           "id": 775,
@@ -5147,7 +5147,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Каррара серый камень.jpg",
+      "image": "/src/img/countertops/Каррара серый камень.webp",
       "sizes": [
         {
           "id": 777,
@@ -5171,7 +5171,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 4200 руб.",
-      "image": "/src/img/countertops/Черногория.jpg",
+      "image": "/src/img/countertops/Черногория.webp",
       "sizes": [
         {
           "id": 779,
@@ -5195,7 +5195,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Венге.jpg",
+      "image": "/src/img/countertops/Венге.webp",
       "sizes": [
         {
           "id": 781,
@@ -5219,7 +5219,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 2 700 руб.",
-      "image": "/src/img/countertops/Белый.jpg",
+      "image": "/src/img/countertops/Белый.webp",
       "sizes": [
         {
           "id": 784,
@@ -5243,7 +5243,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Северное солнце.jpg",
+      "image": "/src/img/countertops/Северное солнце.webp",
       "sizes": [
         {
           "id": 787,
@@ -5260,7 +5260,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 2 700 руб.",
-      "image": "/src/img/countertops/Бискайская сосна.jpg",
+      "image": "/src/img/countertops/Бискайская сосна.webp",
       "sizes": [
         {
           "id": 789,
@@ -5284,7 +5284,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Альмандин.jpg",
+      "image": "/src/img/countertops/Альмандин.webp",
       "sizes": [
         {
           "id": 792,
@@ -5301,7 +5301,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Сосна Осло.jpg",
+      "image": "/src/img/countertops/Сосна Осло.webp",
       "sizes": [
         {
           "id": 794,
@@ -5318,7 +5318,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Мрамор Золотой.jpg",
+      "image": "/src/img/countertops/Мрамор Золотой.webp",
       "sizes": [
         {
           "id": 796,
@@ -5335,7 +5335,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 2 700 руб.",
-      "image": "/src/img/countertops/Аурум.jpg",
+      "image": "/src/img/countertops/Аурум.webp",
       "sizes": [
         {
           "id": 798,
@@ -5359,7 +5359,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Витрум Графит.jpg",
+      "image": "/src/img/countertops/Витрум Графит.webp",
       "sizes": [
         {
           "id": 801,
@@ -5376,7 +5376,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Дуб флагстаф светлый.jpg",
+      "image": "/src/img/countertops/Дуб флагстаф светлый.webp",
       "sizes": [
         {
           "id": 803,
@@ -5393,7 +5393,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Олива жемчужная.jpg",
+      "image": "/src/img/countertops/Олива жемчужная.webp",
       "sizes": [
         {
           "id": 805,
@@ -5410,7 +5410,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 2 700 руб.",
-      "image": "/src/img/countertops/Сахара Белая.jpg",
+      "image": "/src/img/countertops/Сахара Белая.webp",
       "sizes": [
         {
           "id": 807,
@@ -5434,7 +5434,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 2 700 руб.",
-      "image": "/src/img/countertops/Мадрид.jpg",
+      "image": "/src/img/countertops/Мадрид.webp",
       "sizes": [
         {
           "id": 810,
@@ -5458,7 +5458,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Берилл голубой.jpg",
+      "image": "/src/img/countertops/Берилл голубой.webp",
       "sizes": [
         {
           "id": 813,
@@ -5475,7 +5475,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 2 700 руб.",
-      "image": "/src/img/countertops/Марсель.jpg",
+      "image": "/src/img/countertops/Марсель.webp",
       "sizes": [
         {
           "id": 815,
@@ -5499,7 +5499,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 2 700 руб.",
-      "image": "/src/img/countertops/Королевский опал.jpg",
+      "image": "/src/img/countertops/Королевский опал.webp",
       "sizes": [
         {
           "id": 818,
@@ -5523,7 +5523,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 2 700 руб.",
-      "image": "/src/img/countertops/Шоколадный опал.jpg",
+      "image": "/src/img/countertops/Шоколадный опал.webp",
       "sizes": [
         {
           "id": 821,
@@ -5547,7 +5547,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Гранатовый опал.jpg",
+      "image": "/src/img/countertops/Гранатовый опал.webp",
       "sizes": [
         {
           "id": 824,
@@ -5564,7 +5564,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Золотая венеция.jpg",
+      "image": "/src/img/countertops/Золотая венеция.webp",
       "sizes": [
         {
           "id": 826,
@@ -5581,7 +5581,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Алтея.jpg",
+      "image": "/src/img/countertops/Алтея.webp",
       "sizes": [
         {
           "id": 828,
@@ -5598,7 +5598,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Версаль.jpg",
+      "image": "/src/img/countertops/Версаль.webp",
       "sizes": [
         {
           "id": 830,
@@ -5615,7 +5615,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Серебряный лес.jpg",
+      "image": "/src/img/countertops/Серебряный лес.webp",
       "sizes": [
         {
           "id": 832,
@@ -5632,7 +5632,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Марквина глянец.jpg",
+      "image": "/src/img/countertops/Марквина глянец.webp",
       "sizes": [
         {
           "id": 834,
@@ -5649,7 +5649,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Мрамор Империал темный.jpg",
+      "image": "/src/img/countertops/Мрамор Империал темный.webp",
       "sizes": [
         {
           "id": 836,
@@ -5666,7 +5666,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Мрамор Калакатта золотой.jpg",
+      "image": "/src/img/countertops/Мрамор Калакатта золотой.webp",
       "sizes": [
         {
           "id": 838,
@@ -5683,7 +5683,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Скала.jpg",
+      "image": "/src/img/countertops/Скала.webp",
       "sizes": [
         {
           "id": 840,
@@ -5700,7 +5700,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Алтай.jpg",
+      "image": "/src/img/countertops/Алтай.webp",
       "sizes": [
         {
           "id": 842,
@@ -5717,7 +5717,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Северный дуб.jpg",
+      "image": "/src/img/countertops/Северный дуб.webp",
       "sizes": [
         {
           "id": 844,
@@ -5734,7 +5734,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Кантри.jpg",
+      "image": "/src/img/countertops/Кантри.webp",
       "sizes": [
         {
           "id": 846,
@@ -5751,7 +5751,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Белый тунис.jpg",
+      "image": "/src/img/countertops/Белый тунис.webp",
       "sizes": [
         {
           "id": 848,
@@ -5768,7 +5768,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Гранит черный.jpg",
+      "image": "/src/img/countertops/Гранит черный.webp",
       "sizes": [
         {
           "id": 850,
@@ -5785,7 +5785,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Сахара черная.jpg",
+      "image": "/src/img/countertops/Сахара черная.webp",
       "sizes": [
         {
           "id": 852,
@@ -5802,7 +5802,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Паладина коричневая.jpg",
+      "image": "/src/img/countertops/Паладина коричневая.webp",
       "sizes": [
         {
           "id": 854,
@@ -5819,7 +5819,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 2 700 руб.",
-      "image": "/src/img/countertops/Аламбра.jpg",
+      "image": "/src/img/countertops/Аламбра.webp",
       "sizes": [
         {
           "id": 856,
@@ -5843,7 +5843,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Аламбра темная.jpg",
+      "image": "/src/img/countertops/Аламбра темная.webp",
       "sizes": [
         {
           "id": 859,
@@ -5860,7 +5860,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Геперион светлый.jpg",
+      "image": "/src/img/countertops/Геперион светлый.webp",
       "sizes": [
         {
           "id": 861,
@@ -5877,7 +5877,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Геперион бежевый.jpg",
+      "image": "/src/img/countertops/Геперион бежевый.webp",
       "sizes": [
         {
           "id": 863,
@@ -5894,7 +5894,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Этория.jpg",
+      "image": "/src/img/countertops/Этория.webp",
       "sizes": [
         {
           "id": 865,
@@ -5911,7 +5911,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Обожжённый дуб.jpg",
+      "image": "/src/img/countertops/Обожжённый дуб.webp",
       "sizes": [
         {
           "id": 867,
@@ -5928,7 +5928,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Черный тунис.jpg",
+      "image": "/src/img/countertops/Черный тунис.webp",
       "sizes": [
         {
           "id": 869,
@@ -5945,7 +5945,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Полярная звезда.jpg",
+      "image": "/src/img/countertops/Полярная звезда.webp",
       "sizes": [
         {
           "id": 871,
@@ -5962,7 +5962,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Дуб Прованс.jpg",
+      "image": "/src/img/countertops/Дуб Прованс.webp",
       "sizes": [
         {
           "id": 873,
@@ -5979,7 +5979,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Дуб Экспрессив.jpg",
+      "image": "/src/img/countertops/Дуб Экспрессив.webp",
       "sizes": [
         {
           "id": 875,
@@ -5996,7 +5996,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 2 700 руб.",
-      "image": "/src/img/countertops/Дуб Ниагара.jpg",
+      "image": "/src/img/countertops/Дуб Ниагара.webp",
       "sizes": [
         {
           "id": 877,
@@ -6020,7 +6020,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Мрамор Аргентина.jpg",
+      "image": "/src/img/countertops/Мрамор Аргентина.webp",
       "sizes": [
         {
           "id": 880,
@@ -6037,7 +6037,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 2 700 руб.",
-      "image": "/src/img/countertops/Канадский дуб.jpg",
+      "image": "/src/img/countertops/Канадский дуб.webp",
       "sizes": [
         {
           "id": 882,
@@ -6061,7 +6061,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Северная пальмира.jpg",
+      "image": "/src/img/countertops/Северная пальмира.webp",
       "sizes": [
         {
           "id": 885,
@@ -6078,7 +6078,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Дуб серебристый.jpg",
+      "image": "/src/img/countertops/Дуб серебристый.webp",
       "sizes": [
         {
           "id": 887,
@@ -6095,7 +6095,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Белая метель.jpg",
+      "image": "/src/img/countertops/Белая метель.webp",
       "sizes": [
         {
           "id": 889,
@@ -6112,7 +6112,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Бриллиант белый.jpg",
+      "image": "/src/img/countertops/Бриллиант белый.webp",
       "sizes": [
         {
           "id": 891,
@@ -6129,7 +6129,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Бриллиант черный.jpg",
+      "image": "/src/img/countertops/Бриллиант черный.webp",
       "sizes": [
         {
           "id": 893,
@@ -6146,7 +6146,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Галактика.jpg",
+      "image": "/src/img/countertops/Галактика.webp",
       "sizes": [
         {
           "id": 895,
@@ -6163,7 +6163,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Алюминий.jpg",
+      "image": "/src/img/countertops/Алюминий.webp",
       "sizes": [
         {
           "id": 897,
@@ -6180,7 +6180,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Артстоун.jpg",
+      "image": "/src/img/countertops/Артстоун.webp",
       "sizes": [
         {
           "id": 899,
@@ -6197,7 +6197,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Аргус светлый.jpeg",
+      "image": "/src/img/countertops/Аргус светлый.webp",
       "sizes": [
         {
           "id": 901,
@@ -6214,7 +6214,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Кастилло темный.jpg",
+      "image": "/src/img/countertops/Кастилло темный.webp",
       "sizes": [
         {
           "id": 903,
@@ -6231,7 +6231,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Оникс коричневый.jpeg",
+      "image": "/src/img/countertops/Оникс коричневый.webp",
       "sizes": [
         {
           "id": 905,
@@ -6248,7 +6248,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Кианит.jpg",
+      "image": "/src/img/countertops/Кианит.webp",
       "sizes": [
         {
           "id": 907,
@@ -6265,7 +6265,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Травертин.jpg",
+      "image": "/src/img/countertops/Травертин.webp",
       "sizes": [
         {
           "id": 909,
@@ -6282,7 +6282,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Мрамор Рускеала.jpg",
+      "image": "/src/img/countertops/Мрамор Рускеала.webp",
       "sizes": [
         {
           "id": 911,
@@ -6299,7 +6299,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Каспий черное золото.jpg",
+      "image": "/src/img/countertops/Каспий черное золото.webp",
       "sizes": [
         {
           "id": 913,
@@ -6316,7 +6316,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 2 700 руб.",
-      "image": "/src/img/countertops/Слоновая Кость.jpg",
+      "image": "/src/img/countertops/Слоновая Кость.webp",
       "sizes": [
         {
           "id": 915,
@@ -6340,7 +6340,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Бронзовый каспий.jpg",
+      "image": "/src/img/countertops/Бронзовый каспий.webp",
       "sizes": [
         {
           "id": 918,
@@ -6357,7 +6357,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Дуб флагстаф темный.jpg",
+      "image": "/src/img/countertops/Дуб флагстаф темный.webp",
       "sizes": [
         {
           "id": 920,
@@ -6374,7 +6374,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Оникс дымчатый.jpg",
+      "image": "/src/img/countertops/Оникс дымчатый.webp",
       "sizes": [
         {
           "id": 922,
@@ -6391,7 +6391,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Оникс темный графит.jpg",
+      "image": "/src/img/countertops/Оникс темный графит.webp",
       "sizes": [
         {
           "id": 924,
@@ -6408,7 +6408,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 2 700 руб.",
-      "image": "/src/img/countertops/Орех Пекан.jpg",
+      "image": "/src/img/countertops/Орех Пекан.webp",
       "sizes": [
         {
           "id": 926,
@@ -6432,7 +6432,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Орех Макассар.jpg",
+      "image": "/src/img/countertops/Орех Макассар.webp",
       "sizes": [
         {
           "id": 929,
@@ -6449,7 +6449,7 @@
       "description": "",
       "category": "countertops",
       "price": "2 700 руб.",
-      "image": "/src/img/countertops/Золотистый дуб.jpg",
+      "image": "/src/img/countertops/Золотистый дуб.webp",
       "sizes": [
         {
           "id": 931,
@@ -6466,7 +6466,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 2 700 руб.",
-      "image": "/src/img/countertops/Луна.jpg",
+      "image": "/src/img/countertops/Луна.webp",
       "sizes": [
         {
           "id": 933,
@@ -6490,7 +6490,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Белый.jpg",
+      "image": "/src/img/countertops/Белый.webp",
       "sizes": [
         {
           "id": 936,
@@ -6507,7 +6507,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3 700 руб.",
-      "image": "/src/img/countertops/Олива жемчужная.jpg",
+      "image": "/src/img/countertops/Олива жемчужная.webp",
       "sizes": [
         {
           "id": 938,
@@ -6531,7 +6531,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Королевский опал.jpg",
+      "image": "/src/img/countertops/Королевский опал.webp",
       "sizes": [
         {
           "id": 941,
@@ -6548,7 +6548,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Шоколадный опал.jpg",
+      "image": "/src/img/countertops/Шоколадный опал.webp",
       "sizes": [
         {
           "id": 943,
@@ -6565,7 +6565,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3 700 руб.",
-      "image": "/src/img/countertops/Альберика глянец.jpg",
+      "image": "/src/img/countertops/Альберика глянец.webp",
       "sizes": [
         {
           "id": 945,
@@ -6589,7 +6589,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3 700 руб.",
-      "image": "/src/img/countertops/Версаль.jpg",
+      "image": "/src/img/countertops/Версаль.webp",
       "sizes": [
         {
           "id": 948,
@@ -6613,7 +6613,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Серебряный лес.jpg",
+      "image": "/src/img/countertops/Серебряный лес.webp",
       "sizes": [
         {
           "id": 951,
@@ -6630,7 +6630,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Марквина глянец.jpg",
+      "image": "/src/img/countertops/Марквина глянец.webp",
       "sizes": [
         {
           "id": 953,
@@ -6647,7 +6647,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3 700 руб.",
-      "image": "/src/img/countertops/Черное серебро глянец.jpg",
+      "image": "/src/img/countertops/Черное серебро глянец.webp",
       "sizes": [
         {
           "id": 955,
@@ -6671,7 +6671,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 3 700 руб.",
-      "image": "/src/img/countertops/Черная бронза глянец.jpg",
+      "image": "/src/img/countertops/Черная бронза глянец.webp",
       "sizes": [
         {
           "id": 958,
@@ -6695,7 +6695,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Гранит черный.jpg",
+      "image": "/src/img/countertops/Гранит черный.webp",
       "sizes": [
         {
           "id": 961,
@@ -6712,7 +6712,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Сахара черная.jpg",
+      "image": "/src/img/countertops/Сахара черная.webp",
       "sizes": [
         {
           "id": 963,
@@ -6729,7 +6729,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Паладина коричневая.jpg",
+      "image": "/src/img/countertops/Паладина коричневая.webp",
       "sizes": [
         {
           "id": 965,
@@ -6746,7 +6746,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Аламбра.jpg",
+      "image": "/src/img/countertops/Аламбра.webp",
       "sizes": [
         {
           "id": 967,
@@ -6763,7 +6763,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Мрамор Аргентина.jpg",
+      "image": "/src/img/countertops/Мрамор Аргентина.webp",
       "sizes": [
         {
           "id": 969,
@@ -6780,7 +6780,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Мрамор Саламанка.jpg",
+      "image": "/src/img/countertops/Мрамор Саламанка.webp",
       "sizes": [
         {
           "id": 971,
@@ -6797,7 +6797,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Алюминий.jpg",
+      "image": "/src/img/countertops/Алюминий.webp",
       "sizes": [
         {
           "id": 973,
@@ -6814,7 +6814,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Артстоун.jpg",
+      "image": "/src/img/countertops/Артстоун.webp",
       "sizes": [
         {
           "id": 975,
@@ -6831,7 +6831,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Аргус светлый.jpeg",
+      "image": "/src/img/countertops/Аргус светлый.webp",
       "sizes": [
         {
           "id": 977,
@@ -6848,7 +6848,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Малага.jpg",
+      "image": "/src/img/countertops/Малага.webp",
       "sizes": [
         {
           "id": 979,
@@ -6865,7 +6865,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Травертин серый.jpg",
+      "image": "/src/img/countertops/Травертин серый.webp",
       "sizes": [
         {
           "id": 981,
@@ -6882,7 +6882,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Травертин.jpg",
+      "image": "/src/img/countertops/Травертин.webp",
       "sizes": [
         {
           "id": 983,
@@ -6899,7 +6899,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Лен глянец.jpg",
+      "image": "/src/img/countertops/Лен глянец.webp",
       "sizes": [
         {
           "id": 985,
@@ -6916,7 +6916,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Каспий черное золото.jpg",
+      "image": "/src/img/countertops/Каспий черное золото.webp",
       "sizes": [
         {
           "id": 987,
@@ -6933,7 +6933,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Оникс темный графит.jpg",
+      "image": "/src/img/countertops/Оникс темный графит.webp",
       "sizes": [
         {
           "id": 989,
@@ -6950,7 +6950,7 @@
       "description": "",
       "category": "countertops",
       "price": "3 700 руб.",
-      "image": "/src/img/countertops/Орех Макассар.jpg",
+      "image": "/src/img/countertops/Орех Макассар.webp",
       "sizes": [
         {
           "id": 991,
@@ -6967,7 +6967,7 @@
       "description": "",
       "category": "countertops",
       "price": "5 600 руб.",
-      "image": "/src/img/countertops/Ледяная искра белая глянец.jpg",
+      "image": "/src/img/countertops/Ледяная искра белая глянец.webp",
       "sizes": [
         {
           "id": 993,
@@ -6984,7 +6984,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 5 600 руб.",
-      "image": "/src/img/countertops/Ледяная искра темная глянец.jpg",
+      "image": "/src/img/countertops/Ледяная искра темная глянец.webp",
       "sizes": [
         {
           "id": 994,
@@ -7008,7 +7008,7 @@
       "description": "",
       "category": "countertops",
       "price": "5 600 руб.",
-      "image": "/src/img/countertops/Артстоун.jpg",
+      "image": "/src/img/countertops/Артстоун.webp",
       "sizes": [
         {
           "id": 996,
@@ -7025,7 +7025,7 @@
       "description": "",
       "category": "countertops",
       "price": "5 600 руб.",
-      "image": "/src/img/countertops/Диамант.jpg",
+      "image": "/src/img/countertops/Диамант.webp",
       "sizes": [
         {
           "id": 997,
@@ -7042,7 +7042,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 5 600 руб.",
-      "image": "/src/img/countertops/Черный королевский жемчуг 3D.gif",
+      "image": "/src/img/countertops/Черный королевский жемчуг 3D.webp",
       "sizes": [
         {
           "id": 998,
@@ -7066,7 +7066,7 @@
       "description": "",
       "category": "countertops",
       "price": "от 5 600 руб.",
-      "image": "/src/img/countertops/Белый жемчуг.png",
+      "image": "/src/img/countertops/Белый жемчуг.webp",
       "sizes": [
         {
           "id": 1000,
@@ -7090,7 +7090,7 @@
       "description": "Дуговой фасад АДЕЛЬ из массива ясеня, цвет серый с патиной шампань. Дуговой фасад под стекло.",
       "category": "facades",
       "price": "от 10 050 руб.",
-      "image": "/src/img/facades/Адель/Фасад Адель дуговой под стекло.JPG",
+      "image": "/src/img/facades/Адель/Фасад Адель дуговой под стекло.webp",
       "sizes": [
         {
           "id": 1250,
@@ -7114,7 +7114,7 @@
       "description": "Дуговой фасад АДЕЛЬ из массива ясеня, цвет серый с патиной шампань. Дуговой фасад с филенкой.",
       "category": "facades",
       "price": "от 13 000 руб.",
-      "image": "/src/img/facades/Адель/Фасад адель дуговой с филенкой.JPG",
+      "image": "/src/img/facades/Адель/Фасад адель дуговой с филенкой.webp",
       "sizes": [
         {
           "id": 1252,
@@ -7131,7 +7131,7 @@
       "description": "Фасад АДЕЛЬ из массива ясеня, цвет серый с патиной шампань. Фасад под стекло плоский.",
       "category": "facades",
       "price": "от 3 050 руб.",
-      "image": "/src/img/facades/Адель/Фасад Адель плоский под стекло.png",
+      "image": "/src/img/facades/Адель/Фасад Адель плоский под стекло.webp",
       "sizes": [
         {
           "id": 1253,
@@ -7190,7 +7190,7 @@
       "description": "Фасад АДЕЛЬ из массива ясеня, цвет серый с патиной шампань. Фасад с переплетом плоский.",
       "category": "facades",
       "price": "от 4 200 руб.",
-      "image": "/src/img/facades/Адель/Фасад Адель плоский с переплетом.png",
+      "image": "/src/img/facades/Адель/Фасад Адель плоский с переплетом.webp",
       "sizes": [
         {
           "id": 1260,
@@ -7214,7 +7214,7 @@
       "description": "Фасад АДЕЛЬ из массива ясеня, цвет серый с патиной шампань. Фасад с филенкой плоский.",
       "category": "facades",
       "price": "от 2 400 руб.",
-      "image": "/src/img/facades/Адель/Фасад Адель плоский с филенкой.png",
+      "image": "/src/img/facades/Адель/Фасад Адель плоский с филенкой.webp",
       "sizes": [
         {
           "id": 1262,
@@ -7315,7 +7315,7 @@
       "description": "Фасад АДЕЛЬ из массива ясеня, цвет серый с патиной шампань. Ящичная накладка.",
       "category": "facades",
       "price": "от 1 250 руб.",
-      "image": "/src/img/facades/Адель/Фасад адель ящичная накладка.jpg",
+      "image": "/src/img/facades/Адель/Фасад адель ящичная накладка.webp",
       "sizes": [
         {
           "id": 1275,
@@ -7346,7 +7346,7 @@
       "description": "Фасад АДЕЛЬ из массива ясеня, цвет серый с патиной шампань. Фасад с решеткой.",
       "category": "facades",
       "price": "от 3 700 руб.",
-      "image": "/src/img/facades/Адель/Фасад Адель с решеткой.png",
+      "image": "/src/img/facades/Адель/Фасад Адель с решеткой.webp",
       "sizes": [
         {
           "id": 1278,
@@ -7398,7 +7398,7 @@
       "description": "Дуговой фасад под стекло . Цвет: сандал 1/20, патина коричневая.",
       "category": "facades",
       "price": "9 500 руб.",
-      "image": "/src/img/facades/Виктория/Фасад Виктория дуговой под стекло.jpg",
+      "image": "/src/img/facades/Виктория/Фасад Виктория дуговой под стекло.webp",
       "sizes": [
         {
           "id": 1314,
@@ -7415,7 +7415,7 @@
       "description": "Дуговой фасад с филенкой . Цвет: сандал 1/20, патина коричневая.",
       "category": "facades",
       "price": "15 800 руб.",
-      "image": "/src/img/facades/Виктория/Фасад Виктория дуговой с филенкой.JPG",
+      "image": "/src/img/facades/Виктория/Фасад Виктория дуговой с филенкой.webp",
       "sizes": [
         {
           "id": 1316,
@@ -7432,7 +7432,7 @@
       "description": "Фасад под стекло плоский. Цвет: сандал 1/20, патина коричневая.",
       "category": "facades",
       "price": "от 3 150 руб.",
-      "image": "/src/img/facades/Виктория/Фасад Виктория плоский под стекло.png",
+      "image": "/src/img/facades/Виктория/Фасад Виктория плоский под стекло.webp",
       "sizes": [
         {
           "id": 1317,
@@ -7491,7 +7491,7 @@
       "description": "Фасад с переплетом плоский. Цвет: сандал 1/20, патина коричневая.",
       "category": "facades",
       "price": "от 5 550 руб.",
-      "image": "/src/img/facades/Виктория/Фасад Виктория плоский с переплетом.png",
+      "image": "/src/img/facades/Виктория/Фасад Виктория плоский с переплетом.webp",
       "sizes": [
         {
           "id": 1324,
@@ -7515,7 +7515,7 @@
       "description": "Фасад с филенкой плоский. Цвет: сандал 1/20, патина коричневая.",
       "category": "facades",
       "price": "от 2 350 руб.",
-      "image": "/src/img/facades/Виктория/Фасад Виктория плоский с филенкой.png",
+      "image": "/src/img/facades/Виктория/Фасад Виктория плоский с филенкой.webp",
       "sizes": [
         {
           "id": 1326,
@@ -7623,7 +7623,7 @@
       "description": "Фасад с решеткой. Цвет: сандал 1/20, патина коричневая.",
       "category": "facades",
       "price": "от 4 750 руб.",
-      "image": "/src/img/facades/Виктория/Фасад Виктория с решеткой.png",
+      "image": "/src/img/facades/Виктория/Фасад Виктория с решеткой.webp",
       "sizes": [
         {
           "id": 1340,
@@ -7675,7 +7675,7 @@
       "description": "Дуговой фасад под стекло . Цвет: слоновая кость, патина золото.",
       "category": "facades",
       "price": "7 100 руб.",
-      "image": "/src/img/facades/Ирида/Фасад Ирида дуговой под стекло.JPG",
+      "image": "/src/img/facades/Ирида/Фасад Ирида дуговой под стекло.webp",
       "sizes": [
         {
           "id": 1397,
@@ -7692,7 +7692,7 @@
       "description": "Дуговой фасад с филенкой . Цвет: слоновая кость, патина золото.",
       "category": "facades",
       "price": "12 200 руб.",
-      "image": "/src/img/facades/Ирида/Фасад Ирида дуговой с филенкой.jpg",
+      "image": "/src/img/facades/Ирида/Фасад Ирида дуговой с филенкой.webp",
       "sizes": [
         {
           "id": 1399,
@@ -7709,7 +7709,7 @@
       "description": "Фасад под стекло плоский. Цвет: слоновая кость, патина золото.",
       "category": "facades",
       "price": "от 2 350 руб.",
-      "image": "/src/img/facades/Ирида/Фасад Ирида плоский под стекло.jpg",
+      "image": "/src/img/facades/Ирида/Фасад Ирида плоский под стекло.webp",
       "sizes": [
         {
           "id": 1400,
@@ -7768,7 +7768,7 @@
       "description": "Фасад с переплетом перекрестие 2. Цвет: слоновая кость, патина золото.",
       "category": "facades",
       "price": "от 3 950 руб.",
-      "image": "/src/img/facades/Ирида/Фасад Ирида плоский с переплетом.jpg",
+      "image": "/src/img/facades/Ирида/Фасад Ирида плоский с переплетом.webp",
       "sizes": [
         {
           "id": 1407,
@@ -7792,7 +7792,7 @@
       "description": "Фасад с филенкой плоский. Цвет: слоновая кость, патина золото.",
       "category": "facades",
       "price": "от 2 350 руб.",
-      "image": "/src/img/facades/Ирида/Фасад Ирида плоский с филенкой.jpg",
+      "image": "/src/img/facades/Ирида/Фасад Ирида плоский с филенкой.webp",
       "sizes": [
         {
           "id": 1409,
@@ -7893,7 +7893,7 @@
       "description": "Фасад с решеткой. Цвет: слоновая кость, патина золото.",
       "category": "facades",
       "price": "от 3 150 руб.",
-      "image": "/src/img/facades/Ирида/Фасад Ирида с решеткой.jpg",
+      "image": "/src/img/facades/Ирида/Фасад Ирида с решеткой.webp",
       "sizes": [
         {
           "id": 1431,
@@ -7945,7 +7945,7 @@
       "description": "Дуговой фасад под стекло . Цвет: орех, патина черная.",
       "category": "facades",
       "price": "8 700 руб.",
-      "image": "/src/img/facades/Клио/Фасад Клио дуговой под стекло.jpg",
+      "image": "/src/img/facades/Клио/Фасад Клио дуговой под стекло.webp",
       "sizes": [
         {
           "id": 1468,
@@ -7962,7 +7962,7 @@
       "description": "Дуговой фасад с филенкой . Цвет: орех, патина черная.",
       "category": "facades",
       "price": "15 000 руб.",
-      "image": "/src/img/facades/Клио/Фасад Клио дуговой с филенкой.jpg",
+      "image": "/src/img/facades/Клио/Фасад Клио дуговой с филенкой.webp",
       "sizes": [
         {
           "id": 1470,
@@ -7979,7 +7979,7 @@
       "description": "Фасад под стекло плоский. Цвет: орех, патина черная.",
       "category": "facades",
       "price": "от 2 850 руб.",
-      "image": "/src/img/facades/Клио/Фасад Клио плоский под стекло.png",
+      "image": "/src/img/facades/Клио/Фасад Клио плоский под стекло.webp",
       "sizes": [
         {
           "id": 1471,
@@ -8038,7 +8038,7 @@
       "description": "Фасад с переплетом плоский. Цвет: орех, патина черная.",
       "category": "facades",
       "price": "от 4 750 руб.",
-      "image": "/src/img/facades/Клио/Фасад Клио плоский с переплетом.png",
+      "image": "/src/img/facades/Клио/Фасад Клио плоский с переплетом.webp",
       "sizes": [
         {
           "id": 1478,
@@ -8062,7 +8062,7 @@
       "description": "Фасад с филенкой плоский. Цвет: орех, патина черная.",
       "category": "facades",
       "price": "от 2 250 руб.",
-      "image": "/src/img/facades/Клио/Фасад Клио плоский с филенкой.png",
+      "image": "/src/img/facades/Клио/Фасад Клио плоский с филенкой.webp",
       "sizes": [
         {
           "id": 1480,
@@ -8170,7 +8170,7 @@
       "description": "Фасад с решеткой. Цвет: орех, патина черная.",
       "category": "facades",
       "price": "от 3 950 руб.",
-      "image": "/src/img/facades/Клио/Фасад Клио с решеткой.png",
+      "image": "/src/img/facades/Клио/Фасад Клио с решеткой.webp",
       "sizes": [
         {
           "id": 1497,
@@ -8263,7 +8263,7 @@
       "description": "Фасад под стекло плоский. Цвет: белоснежный, патина золото. Материал: бук.",
       "category": "facades",
       "price": "от 2 850 руб.",
-      "image": "/src/img/facades/Роза/Фасад Роза плоский под стекло.png",
+      "image": "/src/img/facades/Роза/Фасад Роза плоский под стекло.webp",
       "sizes": [
         {
           "id": 1506,
@@ -8322,7 +8322,7 @@
       "description": "Фасад с переплетом плоский. Цвет: белоснежный, патина золото. Материал: бук.",
       "category": "facades",
       "price": "от 4 750 руб.",
-      "image": "/src/img/facades/Роза/Роза белоснежный патина-золото с переплетом.png",
+      "image": "/src/img/facades/Роза/Роза белоснежный патина-золото с переплетом.webp",
       "sizes": [
         {
           "id": 1513,
@@ -8346,7 +8346,7 @@
       "description": "Фасад с филенкой плоский. Цвет: белоснежный, патина золото. Материал: бук.",
       "category": "facades",
       "price": "от 2 050 руб.",
-      "image": "/src/img/facades/Роза/Роза белоснежный патина-зотоло с филенкой.jpg",
+      "image": "/src/img/facades/Роза/Роза белоснежный патина-зотоло с филенкой.webp",
       "sizes": [
         {
           "id": 1515,
@@ -8454,7 +8454,7 @@
       "description": "Фасад с решеткой. Цвет: белоснежный, патина золото. Материал: бук.",
       "category": "facades",
       "price": "от 3 950 руб.",
-      "image": "/src/img/facades/Роза/Роза белоснежный патина-золото решетка.png",
+      "image": "/src/img/facades/Роза/Роза белоснежный патина-золото решетка.webp",
       "sizes": [
         {
           "id": 1529,
@@ -8547,7 +8547,7 @@
       "description": "Фасад под стекло плоский. Цвет: белоснежный, патина серебро. Материал: бук.",
       "category": "facades",
       "price": "от 2 850 руб.",
-      "image": "/src/img/facades/Роза/Роза белоснежный патина-серебро под стекло.png",
+      "image": "/src/img/facades/Роза/Роза белоснежный патина-серебро под стекло.webp",
       "sizes": [
         {
           "id": 1538,
@@ -8606,7 +8606,7 @@
       "description": "Фасад с переплетом плоский. Цвет: белоснежный, патина серебро. Материал: бук.",
       "category": "facades",
       "price": "от 4 750 руб.",
-      "image": "/src/img/facades/Роза/Роза белоснежный патина-серебро с переплетом.png",
+      "image": "/src/img/facades/Роза/Роза белоснежный патина-серебро с переплетом.webp",
       "sizes": [
         {
           "id": 1545,
@@ -8630,7 +8630,7 @@
       "description": "Фасад с филенкой плоский. Цвет: белоснежный, патина серебро. Материал: бук.",
       "category": "facades",
       "price": "от 2 050 руб.",
-      "image": "/src/img/facades/Роза/Роза белоснежный патина-серебро с филенкой.jpg",
+      "image": "/src/img/facades/Роза/Роза белоснежный патина-серебро с филенкой.webp",
       "sizes": [
         {
           "id": 1547,
@@ -8738,7 +8738,7 @@
       "description": "Фасад с решеткой. Цвет: белоснежный, патина серебро. Материал: бук.",
       "category": "facades",
       "price": "от 3 950 руб.",
-      "image": "/src/img/facades/Роза/Роза белоснежный патина-серебро решетка.png",
+      "image": "/src/img/facades/Роза/Роза белоснежный патина-серебро решетка.webp",
       "sizes": [
         {
           "id": 1561,
@@ -8790,7 +8790,7 @@
       "description": "",
       "category": "facades",
       "price": "от 1 100 руб.",
-      "image": "/src/img/facades/серый/Планки без калевки.jpg",
+      "image": "/src/img/facades/серый/Планки без калевки.webp",
       "sizes": [
         {
           "id": 1567,
@@ -8863,7 +8863,7 @@
       "description": "",
       "category": "facades",
       "price": "от 950 руб.",
-      "image": "/src/img/facades/сандал/Планки Премиум.jpg",
+      "image": "/src/img/facades/сандал/Планки Премиум.webp",
       "sizes": [
         {
           "id": 1576,
@@ -8943,7 +8943,7 @@
       "description": "",
       "category": "facades",
       "price": "от 700 руб.",
-      "image": "/src/img/facades/кость/Планки Премиум.jpg",
+      "image": "/src/img/facades/кость/Планки Премиум.webp",
       "sizes": [
         {
           "id": 1586,
@@ -9023,7 +9023,7 @@
       "description": "",
       "category": "facades",
       "price": "от 950 руб.",
-      "image": "/src/img/facades/орех/Планки Премиум.jpg",
+      "image": "/src/img/facades/орех/Планки Премиум.webp",
       "sizes": [
         {
           "id": 1596,
@@ -9103,7 +9103,7 @@
       "description": "",
       "category": "facades",
       "price": "от 750 руб.",
-      "image": "/src/img/facades/белый золото/Планки Премиум.png",
+      "image": "/src/img/facades/белый золото/Планки Премиум.webp",
       "sizes": [
         {
           "id": 1606,
@@ -9183,7 +9183,7 @@
       "description": "",
       "category": "facades",
       "price": "от 750 руб.",
-      "image": "/src/img/facades/белое серебро/Планки премиум.png",
+      "image": "/src/img/facades/белое серебро/Планки премиум.webp",
       "sizes": [
         {
           "id": 1616,
@@ -9263,7 +9263,7 @@
       "description": "",
       "category": "facades",
       "price": "2 350 руб.",
-      "image": "/src/img/facades/кость/Колонна декоративная Магнолия.jpg",
+      "image": "/src/img/facades/кость/Колонна декоративная Магнолия.webp",
       "sizes": [
         {
           "id": 1626,
@@ -9287,7 +9287,7 @@
       "description": "",
       "category": "facades",
       "price": "2 350 руб.",
-      "image": "/src/img/facades/белый золото/Колонна декоративная Магнолия.png",
+      "image": "/src/img/facades/белый золото/Колонна декоративная Магнолия.webp",
       "sizes": [
         {
           "id": 1628,
@@ -9311,7 +9311,7 @@
       "description": "",
       "category": "facades",
       "price": "2 350 руб.",
-      "image": "/src/img/facades/белое серебро/Колонна декоративная Магнолия.png",
+      "image": "/src/img/facades/белое серебро/Колонна декоративная Магнолия.webp",
       "sizes": [
         {
           "id": 1630,
@@ -9335,7 +9335,7 @@
       "description": "",
       "category": "facades",
       "price": "6 350 руб.",
-      "image": "/src/img/facades/сандал/Колонна декоративная Борокко-2.jpg",
+      "image": "/src/img/facades/сандал/Колонна декоративная Борокко-2.webp",
       "sizes": [
         {
           "id": 1632,
@@ -9359,7 +9359,7 @@
       "description": "",
       "category": "facades",
       "price": "6 300 руб.",
-      "image": "/src/img/facades/орех/Колонна декоративная Борокко-2.jpg",
+      "image": "/src/img/facades/орех/Колонна декоративная Борокко-2.webp",
       "sizes": [
         {
           "id": 1634,
@@ -9383,7 +9383,7 @@
       "description": "",
       "category": "facades",
       "price": "2 350 руб.",
-      "image": "/src/img/facades/сандал/Балюстрада дуговая.jpg",
+      "image": "/src/img/facades/сандал/Балюстрада дуговая.webp",
       "sizes": [
         {
           "id": 1636,
@@ -9400,7 +9400,7 @@
       "description": "",
       "category": "facades",
       "price": "1 550 руб.",
-      "image": "/src/img/facades/кость/Балюстрада дуговая.jpg",
+      "image": "/src/img/facades/кость/Балюстрада дуговая.webp",
       "sizes": [
         {
           "id": 1637,
@@ -9417,7 +9417,7 @@
       "description": "",
       "category": "facades",
       "price": "2 350 руб.",
-      "image": "/src/img/facades/орех/Балюстрада дуговая.jpg",
+      "image": "/src/img/facades/орех/Балюстрада дуговая.webp",
       "sizes": [
         {
           "id": 1638,
@@ -9434,7 +9434,7 @@
       "description": "",
       "category": "facades",
       "price": "1 750 руб.",
-      "image": "/src/img/facades/белый золото/Балюстрада дуговая.png",
+      "image": "/src/img/facades/белый золото/Балюстрада дуговая.webp",
       "sizes": [
         {
           "id": 1639,
@@ -9451,7 +9451,7 @@
       "description": "",
       "category": "facades",
       "price": "1 550 руб.",
-      "image": "/src/img/facades/белое серебро/Балюстрада дуговая.png",
+      "image": "/src/img/facades/белое серебро/Балюстрада дуговая.webp",
       "sizes": [
         {
           "id": 1640,
@@ -9468,7 +9468,7 @@
       "description": "",
       "category": "facades",
       "price": "2 350 руб.",
-      "image": "/src/img/facades/сандал/Балюстрада прямая.jpg",
+      "image": "/src/img/facades/сандал/Балюстрада прямая.webp",
       "sizes": [
         {
           "id": 1641,
@@ -9485,7 +9485,7 @@
       "description": "",
       "category": "facades",
       "price": "1 750 руб.",
-      "image": "/src/img/facades/кость/Балюстрада прямая.jpg",
+      "image": "/src/img/facades/кость/Балюстрада прямая.webp",
       "sizes": [
         {
           "id": 1642,
@@ -9502,7 +9502,7 @@
       "description": "",
       "category": "facades",
       "price": "2 350 руб.",
-      "image": "/src/img/facades/орех/Балюстрада прямая.jpg",
+      "image": "/src/img/facades/орех/Балюстрада прямая.webp",
       "sizes": [
         {
           "id": 1643,
@@ -9519,7 +9519,7 @@
       "description": "",
       "category": "facades",
       "price": "1 750 руб.",
-      "image": "/src/img/facades/белый золото/Балюстрада прямая.png",
+      "image": "/src/img/facades/белый золото/Балюстрада прямая.webp",
       "sizes": [
         {
           "id": 1644,
@@ -9536,7 +9536,7 @@
       "description": "",
       "category": "facades",
       "price": "1 750 руб.",
-      "image": "/src/img/facades/белое серебро/Балюстрада прямая.png",
+      "image": "/src/img/facades/белое серебро/Балюстрада прямая.webp",
       "sizes": [
         {
           "id": 1645,
@@ -9553,7 +9553,7 @@
       "description": "",
       "category": "facades",
       "price": "670 руб.",
-      "image": "/src/img/facades/сандал/Вставка для балюстрады.jpg",
+      "image": "/src/img/facades/сандал/Вставка для балюстрады.webp",
       "sizes": [
         {
           "id": 1646,
@@ -9570,7 +9570,7 @@
       "description": "",
       "category": "facades",
       "price": "390 руб.",
-      "image": "/src/img/facades/кость/Вставка для балюстрады.png",
+      "image": "/src/img/facades/кость/Вставка для балюстрады.webp",
       "sizes": [
         {
           "id": 1647,
@@ -9587,7 +9587,7 @@
       "description": "",
       "category": "facades",
       "price": "650 руб.",
-      "image": "/src/img/facades/орех/Вставка для балюстрады.jpg",
+      "image": "/src/img/facades/орех/Вставка для балюстрады.webp",
       "sizes": [
         {
           "id": 1648,
@@ -9604,7 +9604,7 @@
       "description": "",
       "category": "facades",
       "price": "450 руб.",
-      "image": "/src/img/facades/белый золото/Вставка для балюстрады.png",
+      "image": "/src/img/facades/белый золото/Вставка для балюстрады.webp",
       "sizes": [
         {
           "id": 1649,
@@ -9621,7 +9621,7 @@
       "description": "",
       "category": "facades",
       "price": "450 руб.",
-      "image": "/src/img/facades/белое серебро/Вставка для балюстрады.png",
+      "image": "/src/img/facades/белое серебро/Вставка для балюстрады.webp",
       "sizes": [
         {
           "id": 1650,
@@ -9638,7 +9638,7 @@
       "description": "",
       "category": "facades",
       "price": "1 100 руб.",
-      "image": "/src/img/facades/серый/Накладка на подиум Премиум 100мм прямая.jpg",
+      "image": "/src/img/facades/серый/Накладка на подиум Премиум 100мм прямая.webp",
       "sizes": [
         {
           "id": 1651,
@@ -9655,7 +9655,7 @@
       "description": "",
       "category": "facades",
       "price": "1 250 руб.",
-      "image": "/src/img/facades/сандал/Накладка на подиум Премиум 100мм прямая.jpg",
+      "image": "/src/img/facades/сандал/Накладка на подиум Премиум 100мм прямая.webp",
       "sizes": [
         {
           "id": 1652,
@@ -9672,7 +9672,7 @@
       "description": "",
       "category": "facades",
       "price": "900 руб.",
-      "image": "/src/img/facades/кость/Накладка на подиум Премиум 100мм прямая.png",
+      "image": "/src/img/facades/кость/Накладка на подиум Премиум 100мм прямая.webp",
       "sizes": [
         {
           "id": 1653,
@@ -9689,7 +9689,7 @@
       "description": "",
       "category": "facades",
       "price": "1 250 руб.",
-      "image": "/src/img/facades/орех/Накладка на подиум Премиум 100мм прямая.jpg",
+      "image": "/src/img/facades/орех/Накладка на подиум Премиум 100мм прямая.webp",
       "sizes": [
         {
           "id": 1654,
@@ -9706,7 +9706,7 @@
       "description": "",
       "category": "facades",
       "price": "1 050 руб.",
-      "image": "/src/img/facades/белый золото/Накладка на подиум Премиум 100мм прямая.png",
+      "image": "/src/img/facades/белый золото/Накладка на подиум Премиум 100мм прямая.webp",
       "sizes": [
         {
           "id": 1655,
@@ -9723,7 +9723,7 @@
       "description": "",
       "category": "facades",
       "price": "1 100 руб.",
-      "image": "/src/img/facades/белое серебро/Накладка на подиум Премиум 100мм прямая.png",
+      "image": "/src/img/facades/белое серебро/Накладка на подиум Премиум 100мм прямая.webp",
       "sizes": [
         {
           "id": 1656,
@@ -9740,7 +9740,7 @@
       "description": "",
       "category": "facades",
       "price": "1 220 руб.",
-      "image": "/src/img/facades/серый/Накладка на подиум Премиум 100мм внутр.угол 90°.jpg",
+      "image": "/src/img/facades/серый/Накладка на подиум Премиум 100мм внутр.угол 90°.webp",
       "sizes": [
         {
           "id": 1657,
@@ -9757,7 +9757,7 @@
       "description": "",
       "category": "facades",
       "price": "1 150 руб.",
-      "image": "/src/img/facades/сандал/Накладка на подиум Премиум 100мм внутр.угол 90°.jpg",
+      "image": "/src/img/facades/сандал/Накладка на подиум Премиум 100мм внутр.угол 90°.webp",
       "sizes": [
         {
           "id": 1658,
@@ -9774,7 +9774,7 @@
       "description": "",
       "category": "facades",
       "price": "850 руб.",
-      "image": "/src/img/facades/кость/Накладка на подиум Премиум 100мм внутр.угол 90°.png",
+      "image": "/src/img/facades/кость/Накладка на подиум Премиум 100мм внутр.угол 90°.webp",
       "sizes": [
         {
           "id": 1659,
@@ -9791,7 +9791,7 @@
       "description": "",
       "category": "facades",
       "price": "1 100 руб.",
-      "image": "/src/img/facades/орех/Накладка на подиум Премиум 100мм внутр.угол 90°.jpg",
+      "image": "/src/img/facades/орех/Накладка на подиум Премиум 100мм внутр.угол 90°.webp",
       "sizes": [
         {
           "id": 1660,
@@ -9808,7 +9808,7 @@
       "description": "",
       "category": "facades",
       "price": "950 руб.",
-      "image": "/src/img/facades/белый золото/Накладка на подиум Премиум 100мм внутр.угол 90°.png",
+      "image": "/src/img/facades/белый золото/Накладка на подиум Премиум 100мм внутр.угол 90°.webp",
       "sizes": [
         {
           "id": 1661,
@@ -9825,7 +9825,7 @@
       "description": "",
       "category": "facades",
       "price": "950 руб.",
-      "image": "/src/img/facades/белое серебро/Накладка на подиум Премиум 100мм внутр.угол 90°.png",
+      "image": "/src/img/facades/белое серебро/Накладка на подиум Премиум 100мм внутр.угол 90°.webp",
       "sizes": [
         {
           "id": 1662,
@@ -9842,7 +9842,7 @@
       "description": "",
       "category": "facades",
       "price": "1 220 руб.",
-      "image": "/src/img/facades/серый/Накладка на подиум Премиум 100мм наружн.угол 90°.jpg",
+      "image": "/src/img/facades/серый/Накладка на подиум Премиум 100мм наружн.угол 90°.webp",
       "sizes": [
         {
           "id": 1663,
@@ -9859,7 +9859,7 @@
       "description": "",
       "category": "facades",
       "price": "1 150 руб.",
-      "image": "/src/img/facades/сандал/Накладка на подиум Премиум 100мм наружн.угол 90°.jpg",
+      "image": "/src/img/facades/сандал/Накладка на подиум Премиум 100мм наружн.угол 90°.webp",
       "sizes": [
         {
           "id": 1664,
@@ -9876,7 +9876,7 @@
       "description": "",
       "category": "facades",
       "price": "850 руб.",
-      "image": "/src/img/facades/кость/Накладка на подиум Премиум 100мм наружн.угол 90°.png",
+      "image": "/src/img/facades/кость/Накладка на подиум Премиум 100мм наружн.угол 90°.webp",
       "sizes": [
         {
           "id": 1665,
@@ -9893,7 +9893,7 @@
       "description": "",
       "category": "facades",
       "price": "1 100 руб.",
-      "image": "/src/img/facades/орех/Накладка на подиум Премиум 100мм наружн.угол 90°.jpg",
+      "image": "/src/img/facades/орех/Накладка на подиум Премиум 100мм наружн.угол 90°.webp",
       "sizes": [
         {
           "id": 1666,
@@ -9910,7 +9910,7 @@
       "description": "",
       "category": "facades",
       "price": "950 руб.",
-      "image": "/src/img/facades/белый золото/Накладка на подиум Премиум 100мм наружн.угол 90°.png",
+      "image": "/src/img/facades/белый золото/Накладка на подиум Премиум 100мм наружн.угол 90°.webp",
       "sizes": [
         {
           "id": 1667,
@@ -9927,7 +9927,7 @@
       "description": "",
       "category": "facades",
       "price": "950 руб.",
-      "image": "/src/img/facades/белое серебро/Накладка на подиум Премиум 100мм наружн.угол 90°.png",
+      "image": "/src/img/facades/белое серебро/Накладка на подиум Премиум 100мм наружн.угол 90°.webp",
       "sizes": [
         {
           "id": 1668,
@@ -9944,7 +9944,7 @@
       "description": "",
       "category": "facades",
       "price": "1 400 руб.",
-      "image": "/src/img/facades/серый/Накладка на фриз верхний прямая клио.jpg",
+      "image": "/src/img/facades/серый/Накладка на фриз верхний прямая клио.webp",
       "sizes": [
         {
           "id": 1669,
@@ -9961,7 +9961,7 @@
       "description": "",
       "category": "facades",
       "price": "1 450 руб.",
-      "image": "/src/img/facades/сандал/Накладка на фриз верхний прямая.jpg",
+      "image": "/src/img/facades/сандал/Накладка на фриз верхний прямая.webp",
       "sizes": [
         {
           "id": 1670,
@@ -9978,7 +9978,7 @@
       "description": "",
       "category": "facades",
       "price": "1 100 руб.",
-      "image": "/src/img/facades/кость/Накладка на фриз верхний прямая.jpg",
+      "image": "/src/img/facades/кость/Накладка на фриз верхний прямая.webp",
       "sizes": [
         {
           "id": 1671,
@@ -9995,7 +9995,7 @@
       "description": "",
       "category": "facades",
       "price": "1 450 руб.",
-      "image": "/src/img/facades/орех/Накладка на фриз верхний прямая.jpg",
+      "image": "/src/img/facades/орех/Накладка на фриз верхний прямая.webp",
       "sizes": [
         {
           "id": 1672,
@@ -10012,7 +10012,7 @@
       "description": "",
       "category": "facades",
       "price": "1 250 руб.",
-      "image": "/src/img/facades/белый золото/Накладка на фриз верхний прямая.png",
+      "image": "/src/img/facades/белый золото/Накладка на фриз верхний прямая.webp",
       "sizes": [
         {
           "id": 1673,
@@ -10029,7 +10029,7 @@
       "description": "",
       "category": "facades",
       "price": "1 300 руб.",
-      "image": "/src/img/facades/белое серебро/Накладка на фриз верхний прямая.png",
+      "image": "/src/img/facades/белое серебро/Накладка на фриз верхний прямая.webp",
       "sizes": [
         {
           "id": 1674,
@@ -10046,7 +10046,7 @@
       "description": "",
       "category": "facades",
       "price": "1 550 руб.",
-      "image": "/src/img/facades/серый/Накладка на фриз верхний внутр.угол 90°.jpg",
+      "image": "/src/img/facades/серый/Накладка на фриз верхний внутр.угол 90°.webp",
       "sizes": [
         {
           "id": 1675,
@@ -10063,7 +10063,7 @@
       "description": "",
       "category": "facades",
       "price": "1 550 руб.",
-      "image": "/src/img/facades/сандал/Накладка на фриз верхний внутр.угол 90°.jpg",
+      "image": "/src/img/facades/сандал/Накладка на фриз верхний внутр.угол 90°.webp",
       "sizes": [
         {
           "id": 1676,
@@ -10080,7 +10080,7 @@
       "description": "",
       "category": "facades",
       "price": "1 220 руб.",
-      "image": "/src/img/facades/кость/Накладка на фриз верхний внутр.угол 90°.jpg",
+      "image": "/src/img/facades/кость/Накладка на фриз верхний внутр.угол 90°.webp",
       "sizes": [
         {
           "id": 1677,
@@ -10097,7 +10097,7 @@
       "description": "",
       "category": "facades",
       "price": "1 550 руб.",
-      "image": "/src/img/facades/орех/Накладка на фриз верхний внутр.угол 90°.jpg",
+      "image": "/src/img/facades/орех/Накладка на фриз верхний внутр.угол 90°.webp",
       "sizes": [
         {
           "id": 1678,
@@ -10114,7 +10114,7 @@
       "description": "",
       "category": "facades",
       "price": "1 450 руб.",
-      "image": "/src/img/facades/белый золото/Накладка на фриз верхний внутр.угол 90°.png",
+      "image": "/src/img/facades/белый золото/Накладка на фриз верхний внутр.угол 90°.webp",
       "sizes": [
         {
           "id": 1679,
@@ -10131,7 +10131,7 @@
       "description": "",
       "category": "facades",
       "price": "1 450 руб.",
-      "image": "/src/img/facades/белое серебро/Накладка на фриз верхний внутр.угол 90°.png",
+      "image": "/src/img/facades/белое серебро/Накладка на фриз верхний внутр.угол 90°.webp",
       "sizes": [
         {
           "id": 1680,
@@ -10148,7 +10148,7 @@
       "description": "",
       "category": "facades",
       "price": "1 550 руб.",
-      "image": "/src/img/facades/серый/Накладка на фриз верхний наружн.угол 90° клио.jpg",
+      "image": "/src/img/facades/серый/Накладка на фриз верхний наружн.угол 90° клио.webp",
       "sizes": [
         {
           "id": 1681,
@@ -10165,7 +10165,7 @@
       "description": "",
       "category": "facades",
       "price": "1 550 руб.",
-      "image": "/src/img/facades/сандал/Накладка на фриз верхний наружн.угол 90°.jpg",
+      "image": "/src/img/facades/сандал/Накладка на фриз верхний наружн.угол 90°.webp",
       "sizes": [
         {
           "id": 1682,
@@ -10182,7 +10182,7 @@
       "description": "",
       "category": "facades",
       "price": "1 220 руб.",
-      "image": "/src/img/facades/кость/Накладка на фриз верхний наружн.угол 90°.jpg",
+      "image": "/src/img/facades/кость/Накладка на фриз верхний наружн.угол 90°.webp",
       "sizes": [
         {
           "id": 1683,
@@ -10199,7 +10199,7 @@
       "description": "",
       "category": "facades",
       "price": "1 550 руб.",
-      "image": "/src/img/facades/орех/Накладка на фриз верхний наружн.угол 90°.jpg",
+      "image": "/src/img/facades/орех/Накладка на фриз верхний наружн.угол 90°.webp",
       "sizes": [
         {
           "id": 1684,
@@ -10216,7 +10216,7 @@
       "description": "",
       "category": "facades",
       "price": "1 450 руб.",
-      "image": "/src/img/facades/белый золото/Накладка на фриз верхний наружн.угол 90°.png",
+      "image": "/src/img/facades/белый золото/Накладка на фриз верхний наружн.угол 90°.webp",
       "sizes": [
         {
           "id": 1685,
@@ -10233,7 +10233,7 @@
       "description": "",
       "category": "facades",
       "price": "1 450 руб.",
-      "image": "/src/img/facades/белое серебро/Накладка на фриз верхний наружн.угол 90°.png",
+      "image": "/src/img/facades/белое серебро/Накладка на фриз верхний наружн.угол 90°.webp",
       "sizes": [
         {
           "id": 1686,
@@ -10250,7 +10250,7 @@
       "description": "",
       "category": "facades",
       "price": "5 350 руб.",
-      "image": "/src/img/facades/серый/Фриз верхний дуговой.jpg",
+      "image": "/src/img/facades/серый/Фриз верхний дуговой.webp",
       "sizes": [
         {
           "id": 1687,
@@ -10267,7 +10267,7 @@
       "description": "",
       "category": "facades",
       "price": "6 300 руб.",
-      "image": "/src/img/facades/сандал/Фриз верхний дуговой.jpg",
+      "image": "/src/img/facades/сандал/Фриз верхний дуговой.webp",
       "sizes": [
         {
           "id": 1688,
@@ -10284,7 +10284,7 @@
       "description": "",
       "category": "facades",
       "price": "4 750 руб.",
-      "image": "/src/img/facades/кость/Фриз верхний дуговой.jpg",
+      "image": "/src/img/facades/кость/Фриз верхний дуговой.webp",
       "sizes": [
         {
           "id": 1689,
@@ -10301,7 +10301,7 @@
       "description": "",
       "category": "facades",
       "price": "6 000 руб.",
-      "image": "/src/img/facades/орех/Фриз верхний дуговой.jpg",
+      "image": "/src/img/facades/орех/Фриз верхний дуговой.webp",
       "sizes": [
         {
           "id": 1690,
@@ -10318,7 +10318,7 @@
       "description": "",
       "category": "facades",
       "price": "5 100 руб.",
-      "image": "/src/img/facades/белый золото/Фриз верхний дуговой.png",
+      "image": "/src/img/facades/белый золото/Фриз верхний дуговой.webp",
       "sizes": [
         {
           "id": 1691,
@@ -10335,7 +10335,7 @@
       "description": "",
       "category": "facades",
       "price": "5 550 руб.",
-      "image": "/src/img/facades/белое серебро/Фриз верхний дуговой.png",
+      "image": "/src/img/facades/белое серебро/Фриз верхний дуговой.webp",
       "sizes": [
         {
           "id": 1692,
@@ -10352,7 +10352,7 @@
       "description": "",
       "category": "facades",
       "price": "4 750 руб.",
-      "image": "/src/img/facades/сандал/Фриз верхний прямой.jpg",
+      "image": "/src/img/facades/сандал/Фриз верхний прямой.webp",
       "sizes": [
         {
           "id": 1693,
@@ -10369,7 +10369,7 @@
       "description": "",
       "category": "facades",
       "price": "4 250 руб.",
-      "image": "/src/img/facades/кость/Фриз верхний прямой.jpg",
+      "image": "/src/img/facades/кость/Фриз верхний прямой.webp",
       "sizes": [
         {
           "id": 1694,
@@ -10386,7 +10386,7 @@
       "description": "",
       "category": "facades",
       "price": "4 750 руб.",
-      "image": "/src/img/facades/орех/Фриз верхний прямой.jpg",
+      "image": "/src/img/facades/орех/Фриз верхний прямой.webp",
       "sizes": [
         {
           "id": 1695,
@@ -10403,7 +10403,7 @@
       "description": "",
       "category": "facades",
       "price": "4 750 руб.",
-      "image": "/src/img/facades/белый золото/Фриз верхний прямой.png",
+      "image": "/src/img/facades/белый золото/Фриз верхний прямой.webp",
       "sizes": [
         {
           "id": 1696,
@@ -10420,7 +10420,7 @@
       "description": "",
       "category": "facades",
       "price": "5 550 руб.",
-      "image": "/src/img/facades/белое серебро/Фриз верхний прямой.png",
+      "image": "/src/img/facades/белое серебро/Фриз верхний прямой.webp",
       "sizes": [
         {
           "id": 1697,
@@ -10437,7 +10437,7 @@
       "description": "",
       "category": "facades",
       "price": "2 900 руб.",
-      "image": "/src/img/facades/серый/Подиум дуговой клио.jpg",
+      "image": "/src/img/facades/серый/Подиум дуговой клио.webp",
       "sizes": [
         {
           "id": 1698,
@@ -10454,7 +10454,7 @@
       "description": "",
       "category": "facades",
       "price": "3 400 руб.",
-      "image": "/src/img/facades/сандал/Подиум дуговой.jpg",
+      "image": "/src/img/facades/сандал/Подиум дуговой.webp",
       "sizes": [
         {
           "id": 1699,
@@ -10471,7 +10471,7 @@
       "description": "",
       "category": "facades",
       "price": "2 600 руб.",
-      "image": "/src/img/facades/кость/Подиум дуговой.png",
+      "image": "/src/img/facades/кость/Подиум дуговой.webp",
       "sizes": [
         {
           "id": 1700,
@@ -10488,7 +10488,7 @@
       "description": "",
       "category": "facades",
       "price": "3 400 руб.",
-      "image": "/src/img/facades/орех/Подиум дугово.jpg",
+      "image": "/src/img/facades/орех/Подиум дугово.webp",
       "sizes": [
         {
           "id": 1701,
@@ -10505,7 +10505,7 @@
       "description": "",
       "category": "facades",
       "price": "2 850 руб.",
-      "image": "/src/img/facades/белый золото/Подиум дуговой.png",
+      "image": "/src/img/facades/белый золото/Подиум дуговой.webp",
       "sizes": [
         {
           "id": 1702,
@@ -10522,7 +10522,7 @@
       "description": "",
       "category": "facades",
       "price": "2 850 руб.",
-      "image": "/src/img/facades/белое серебро/Подиум дуговой.png",
+      "image": "/src/img/facades/белое серебро/Подиум дуговой.webp",
       "sizes": [
         {
           "id": 1703,
@@ -10539,7 +10539,7 @@
       "description": "",
       "category": "facades",
       "price": "3 650 руб.",
-      "image": "/src/img/facades/серый/Подиум прямой клио.jpg",
+      "image": "/src/img/facades/серый/Подиум прямой клио.webp",
       "sizes": [
         {
           "id": 1704,
@@ -10556,7 +10556,7 @@
       "description": "",
       "category": "facades",
       "price": "3 950 руб.",
-      "image": "/src/img/facades/сандал/Подиум прямой.jpg",
+      "image": "/src/img/facades/сандал/Подиум прямой.webp",
       "sizes": [
         {
           "id": 1705,
@@ -10573,7 +10573,7 @@
       "description": "",
       "category": "facades",
       "price": "3 150 руб.",
-      "image": "/src/img/facades/кость/Подиум прямой.png",
+      "image": "/src/img/facades/кость/Подиум прямой.webp",
       "sizes": [
         {
           "id": 1706,
@@ -10590,7 +10590,7 @@
       "description": "",
       "category": "facades",
       "price": "4 100 руб.",
-      "image": "/src/img/facades/орех/Подиум прямой.jpg",
+      "image": "/src/img/facades/орех/Подиум прямой.webp",
       "sizes": [
         {
           "id": 1707,
@@ -10607,7 +10607,7 @@
       "description": "",
       "category": "facades",
       "price": "3 950 руб.",
-      "image": "/src/img/facades/белый золото/Подиум прямой.png",
+      "image": "/src/img/facades/белый золото/Подиум прямой.webp",
       "sizes": [
         {
           "id": 1708,
@@ -10624,7 +10624,7 @@
       "description": "",
       "category": "facades",
       "price": "3 950 руб.",
-      "image": "/src/img/facades/белое серебро/Подиум прямой.png",
+      "image": "/src/img/facades/белое серебро/Подиум прямой.webp",
       "sizes": [
         {
           "id": 1709,
@@ -10641,7 +10641,7 @@
       "description": "",
       "category": "facades",
       "price": "1 550 руб.",
-      "image": "/src/img/facades/серый/Накладка на фриз нижний фигурный прямая.jpg",
+      "image": "/src/img/facades/серый/Накладка на фриз нижний фигурный прямая.webp",
       "sizes": [
         {
           "id": 1710,
@@ -10658,7 +10658,7 @@
       "description": "",
       "category": "facades",
       "price": "650 руб.",
-      "image": "/src/img/facades/сандал/Накладка на фриз нижний фигурный прямая.jpg",
+      "image": "/src/img/facades/сандал/Накладка на фриз нижний фигурный прямая.webp",
       "sizes": [
         {
           "id": 1711,
@@ -10675,7 +10675,7 @@
       "description": "",
       "category": "facades",
       "price": "300 руб.",
-      "image": "/src/img/facades/кость/Накладка на фриз нижний фигурный прямая.jpg",
+      "image": "/src/img/facades/кость/Накладка на фриз нижний фигурный прямая.webp",
       "sizes": [
         {
           "id": 1712,
@@ -10692,7 +10692,7 @@
       "description": "",
       "category": "facades",
       "price": "450 руб.",
-      "image": "/src/img/facades/орех/Накладка на фриз нижний фигурный прямая.jpg",
+      "image": "/src/img/facades/орех/Накладка на фриз нижний фигурный прямая.webp",
       "sizes": [
         {
           "id": 1713,
@@ -10709,7 +10709,7 @@
       "description": "",
       "category": "facades",
       "price": "450 руб.",
-      "image": "/src/img/facades/белый золото/Накладка на фриз нижний фигурный прямая.png",
+      "image": "/src/img/facades/белый золото/Накладка на фриз нижний фигурный прямая.webp",
       "sizes": [
         {
           "id": 1714,
@@ -10726,7 +10726,7 @@
       "description": "",
       "category": "facades",
       "price": "450 руб.",
-      "image": "/src/img/facades/белое серебро/Накладка на фриз нижний фигурный прямая.png",
+      "image": "/src/img/facades/белое серебро/Накладка на фриз нижний фигурный прямая.webp",
       "sizes": [
         {
           "id": 1715,
@@ -10743,7 +10743,7 @@
       "description": "",
       "category": "facades",
       "price": "1 100 руб.",
-      "image": "/src/img/facades/серый/Накладка на фриз нижний фигурный внутр.угол 90°.jpg",
+      "image": "/src/img/facades/серый/Накладка на фриз нижний фигурный внутр.угол 90°.webp",
       "sizes": [
         {
           "id": 1716,
@@ -10760,7 +10760,7 @@
       "description": "",
       "category": "facades",
       "price": "950 руб.",
-      "image": "/src/img/facades/сандал/Накладка на фриз нижний фигурный внутр.угол 90°.jpg",
+      "image": "/src/img/facades/сандал/Накладка на фриз нижний фигурный внутр.угол 90°.webp",
       "sizes": [
         {
           "id": 1717,
@@ -10777,7 +10777,7 @@
       "description": "",
       "category": "facades",
       "price": "650 руб.",
-      "image": "/src/img/facades/кость/Накладка на фриз нижний фигурный внутр.угол 90°.jpg",
+      "image": "/src/img/facades/кость/Накладка на фриз нижний фигурный внутр.угол 90°.webp",
       "sizes": [
         {
           "id": 1718,
@@ -10794,7 +10794,7 @@
       "description": "",
       "category": "facades",
       "price": "900 руб.",
-      "image": "/src/img/facades/орех/Накладка на фриз нижний фигурный внутр.угол 90°.jpg",
+      "image": "/src/img/facades/орех/Накладка на фриз нижний фигурный внутр.угол 90°.webp",
       "sizes": [
         {
           "id": 1719,
@@ -10811,7 +10811,7 @@
       "description": "",
       "category": "facades",
       "price": "700 руб.",
-      "image": "/src/img/facades/белый золото/Накладка на фриз нижний фигурный внутр.угол 90°.png",
+      "image": "/src/img/facades/белый золото/Накладка на фриз нижний фигурный внутр.угол 90°.webp",
       "sizes": [
         {
           "id": 1720,
@@ -10828,7 +10828,7 @@
       "description": "",
       "category": "facades",
       "price": "750 руб.",
-      "image": "/src/img/facades/белое серебро/Накладка на фриз нижний фигурный внутр.угол 90°.png",
+      "image": "/src/img/facades/белое серебро/Накладка на фриз нижний фигурный внутр.угол 90°.webp",
       "sizes": [
         {
           "id": 1721,
@@ -10845,7 +10845,7 @@
       "description": "",
       "category": "facades",
       "price": "1 100 руб.",
-      "image": "/src/img/facades/серый/Накладка на фриз нижний фигурный наружн.угол 90°.jpg",
+      "image": "/src/img/facades/серый/Накладка на фриз нижний фигурный наружн.угол 90°.webp",
       "sizes": [
         {
           "id": 1722,
@@ -10862,7 +10862,7 @@
       "description": "",
       "category": "facades",
       "price": "950 руб.",
-      "image": "/src/img/facades/сандал/Накладка на фриз нижний фигурный наружн.угол 90°.jpg",
+      "image": "/src/img/facades/сандал/Накладка на фриз нижний фигурный наружн.угол 90°.webp",
       "sizes": [
         {
           "id": 1723,
@@ -10879,7 +10879,7 @@
       "description": "",
       "category": "facades",
       "price": "650 руб.",
-      "image": "/src/img/facades/кость/Накладка на фриз нижний фигурный наружн.угол 90°.jpg",
+      "image": "/src/img/facades/кость/Накладка на фриз нижний фигурный наружн.угол 90°.webp",
       "sizes": [
         {
           "id": 1724,
@@ -10896,7 +10896,7 @@
       "description": "",
       "category": "facades",
       "price": "900 руб.",
-      "image": "/src/img/facades/орех/Накладка на фриз нижний фигурный наружн.угол 90.jpg",
+      "image": "/src/img/facades/орех/Накладка на фриз нижний фигурный наружн.угол 90.webp",
       "sizes": [
         {
           "id": 1725,
@@ -10913,7 +10913,7 @@
       "description": "",
       "category": "facades",
       "price": "700 руб.",
-      "image": "/src/img/facades/белый золото/Накладка на фриз нижний фигурный наружн.угол 90°.png",
+      "image": "/src/img/facades/белый золото/Накладка на фриз нижний фигурный наружн.угол 90°.webp",
       "sizes": [
         {
           "id": 1726,
@@ -10930,7 +10930,7 @@
       "description": "",
       "category": "facades",
       "price": "750 руб.",
-      "image": "/src/img/facades/белое серебро/Накладка на фриз нижний фигурный наружн.угол 90°.png",
+      "image": "/src/img/facades/белое серебро/Накладка на фриз нижний фигурный наружн.угол 90°.webp",
       "sizes": [
         {
           "id": 1727,
@@ -10947,7 +10947,7 @@
       "description": "",
       "category": "facades",
       "price": "1 650 руб.",
-      "image": "/src/img/facades/серый/Фриз фигурный дуговой нижний.jpg",
+      "image": "/src/img/facades/серый/Фриз фигурный дуговой нижний.webp",
       "sizes": [
         {
           "id": 1728,
@@ -10964,7 +10964,7 @@
       "description": "",
       "category": "facades",
       "price": "1 950 руб.",
-      "image": "/src/img/facades/сандал/Фриз фигурный дуговой нижний.jpg",
+      "image": "/src/img/facades/сандал/Фриз фигурный дуговой нижний.webp",
       "sizes": [
         {
           "id": 1729,
@@ -10981,7 +10981,7 @@
       "description": "",
       "category": "facades",
       "price": "1 450 руб.",
-      "image": "/src/img/facades/кость/Фриз фигурный дуговой нижний.jpg",
+      "image": "/src/img/facades/кость/Фриз фигурный дуговой нижний.webp",
       "sizes": [
         {
           "id": 1730,
@@ -10998,7 +10998,7 @@
       "description": "",
       "category": "facades",
       "price": "1 950 руб.",
-      "image": "/src/img/facades/орех/Фриз фигурный дуговой нижний.jpg",
+      "image": "/src/img/facades/орех/Фриз фигурный дуговой нижний.webp",
       "sizes": [
         {
           "id": 1731,
@@ -11015,7 +11015,7 @@
       "description": "",
       "category": "facades",
       "price": "1 550 руб.",
-      "image": "/src/img/facades/белый золото/Фриз фигурный дуговой нижний.png",
+      "image": "/src/img/facades/белый золото/Фриз фигурный дуговой нижний.webp",
       "sizes": [
         {
           "id": 1732,
@@ -11032,7 +11032,7 @@
       "description": "",
       "category": "facades",
       "price": "1 550 руб.",
-      "image": "/src/img/facades/белое серебро/Фриз фигурный дуговой нижний.png",
+      "image": "/src/img/facades/белое серебро/Фриз фигурный дуговой нижний.webp",
       "sizes": [
         {
           "id": 1733,
@@ -11049,7 +11049,7 @@
       "description": "",
       "category": "facades",
       "price": "1 950 руб.",
-      "image": "/src/img/facades/серый/Фриз фигурный прямой нижний.jpg",
+      "image": "/src/img/facades/серый/Фриз фигурный прямой нижний.webp",
       "sizes": [
         {
           "id": 1734,
@@ -11066,7 +11066,7 @@
       "description": "",
       "category": "facades",
       "price": "2 350 руб.",
-      "image": "/src/img/facades/сандал/Фриз фигурный прямой нижний.jpg",
+      "image": "/src/img/facades/сандал/Фриз фигурный прямой нижний.webp",
       "sizes": [
         {
           "id": 1735,
@@ -11083,7 +11083,7 @@
       "description": "",
       "category": "facades",
       "price": "1 700 руб.",
-      "image": "/src/img/facades/кость/Фриз фигурный прямой нижний.png",
+      "image": "/src/img/facades/кость/Фриз фигурный прямой нижний.webp",
       "sizes": [
         {
           "id": 1736,
@@ -11100,7 +11100,7 @@
       "description": "",
       "category": "facades",
       "price": "2 400 руб.",
-      "image": "/src/img/facades/орех/Фриз фигурный прямой нижний.jpg",
+      "image": "/src/img/facades/орех/Фриз фигурный прямой нижний.webp",
       "sizes": [
         {
           "id": 1737,
@@ -11117,7 +11117,7 @@
       "description": "",
       "category": "facades",
       "price": "2 350 руб.",
-      "image": "/src/img/facades/белый золото/Фриз фигурный прямой нижний.png",
+      "image": "/src/img/facades/белый золото/Фриз фигурный прямой нижний.webp",
       "sizes": [
         {
           "id": 1738,
@@ -11134,7 +11134,7 @@
       "description": "",
       "category": "facades",
       "price": "2 350 руб.",
-      "image": "/src/img/facades/белое серебро/Фриз фигурный прямой нижний.png",
+      "image": "/src/img/facades/белое серебро/Фриз фигурный прямой нижний.webp",
       "sizes": [
         {
           "id": 1739,
@@ -11151,7 +11151,7 @@
       "description": "",
       "category": "facades",
       "price": "от 1 250 руб.",
-      "image": "/src/img/facades/Адель/Фасад адель ящичная накладка.jpg",
+      "image": "/src/img/facades/Адель/Фасад адель ящичная накладка.webp",
       "sizes": [
         {
           "id": 1740,
@@ -11182,7 +11182,7 @@
       "description": "",
       "category": "facades",
       "price": "от 1 250 руб.",
-      "image": "/src/img/facades/кость/Ящичная накладка.png",
+      "image": "/src/img/facades/кость/Ящичная накладка.webp",
       "sizes": [
         {
           "id": 1741,
@@ -11213,7 +11213,7 @@
       "description": "",
       "category": "facades",
       "price": "от 1 100 руб.",
-      "image": "/src/img/facades/орех/Ящичная накладка.jpg",
+      "image": "/src/img/facades/орех/Ящичная накладка.webp",
       "sizes": [
         {
           "id": 1742,
@@ -11244,7 +11244,7 @@
       "description": "",
       "category": "facades",
       "price": "от 1 150 руб.",
-      "image": "/src/img/facades/белый золото/Ящичная накладка.png",
+      "image": "/src/img/facades/белый золото/Ящичная накладка.webp",
       "sizes": [
         {
           "id": 1743,
@@ -11275,7 +11275,7 @@
       "description": "",
       "category": "facades",
       "price": "от 1 100 руб.",
-      "image": "/src/img/facades/белое серебро/Ящичная накладка.png",
+      "image": "/src/img/facades/белое серебро/Ящичная накладка.webp",
       "sizes": [
         {
           "id": 1744,
@@ -11306,7 +11306,7 @@
       "description": "",
       "category": "facades",
       "price": "от 1 250 руб.",
-      "image": "/src/img/facades/сандал/Накладка универсальная №2.jpg",
+      "image": "/src/img/facades/сандал/Накладка универсальная №2.webp",
       "sizes": [
         {
           "id": 1755,
@@ -11337,7 +11337,7 @@
       "description": "",
       "category": "facades",
       "price": "от 1 550 руб.",
-      "image": "/src/img/facades/белый золото/Розетка Жемчужина.png",
+      "image": "/src/img/facades/белый золото/Розетка Жемчужина.webp",
       "sizes": [
         {
           "id": 1758,
@@ -11389,7 +11389,7 @@
       "description": "",
       "category": "facades",
       "price": "от 1 550 руб.",
-      "image": "/src/img/facades/белое серебро/Розетка Жемчужина.png",
+      "image": "/src/img/facades/белое серебро/Розетка Жемчужина.webp",
       "sizes": [
         {
           "id": 1759,
