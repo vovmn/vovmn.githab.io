@@ -1,7 +1,14 @@
 <template>
   <div class="product-card" @click="$emit('cardClick', product)">
     <div class="product-image">
-      <img :src="product.image" :alt="product.name" />
+      <img
+        :src="product.image"
+        :alt="product.name"
+        :loading="index < eagerCount ? 'eager' : 'lazy'"
+        :fetchpriority="index < highPriorityCount ? 'high' : 'auto'"
+        decoding="async"
+        @error="onImgError"
+      />
       <div class="product-category-badge">{{ getCategoryName(product.category) }}</div>
     </div>
 
@@ -20,7 +27,9 @@
 </template>
 
 <script setup>
-defineProps({
+// Добавили index + параметры приоритета загрузки.
+// index нужно передавать из родителя в v-for: (product, i) -> :index="i"
+const props = defineProps({
   product: {
     type: Object,
     required: true,
@@ -32,6 +41,25 @@ defineProps({
       image: '',
       category: ''
     })
+  },
+  index: {
+    type: Number,
+    default: 9999
+  },
+  // сколько первых карточек грузим сразу
+  eagerCount: {
+    type: Number,
+    default: 6
+  },
+  // сколько самых первых картинок просим грузить с высоким приоритетом
+  highPriorityCount: {
+    type: Number,
+    default: 2
+  },
+  // путь к плейсхолдеру (положи файл в /public)
+  placeholderSrc: {
+    type: String,
+    default: '/placeholder.webp'
   }
 })
 
@@ -45,6 +73,15 @@ const getCategoryName = (categoryId) => {
     furniture: 'Фурнитура'
   }
   return categories[categoryId] || categoryId
+}
+
+const onImgError = (e) => {
+  const img = e?.target
+  if (!img) return
+  // чтобы не уйти в бесконечный цикл ошибок
+  if (img.dataset.fallbackApplied) return
+  img.dataset.fallbackApplied = '1'
+  img.src = props.placeholderSrc
 }
 </script>
 
@@ -76,13 +113,18 @@ const getCategoryName = (categoryId) => {
   justify-content: center;
   height: 180px;
   position: relative;
+
+  /* помогает браузеру заранее зарезервировать место и не дергать верстку */
+  width: 100%;
 }
 
 .product-image img {
   max-width: 100%;
   max-height: 160px;
-  width: auto;
-  height: auto;
+
+  /* стабильнее и предсказуемее, чем width/height auto в больших списках */
+  width: 100%;
+  height: 100%;
   object-fit: contain;
 }
 
