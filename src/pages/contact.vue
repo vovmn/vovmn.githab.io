@@ -69,7 +69,7 @@
               <div id="map-ogorodnaya" style="width: 100%; height: 400px;"></div>
               <div class="map-info">
                 <p><strong>Адрес:</strong> г. Саратов, ул. Огородная, 3д</p>
-                <a href="https://yandex.com/maps/-/CLxAVCon" 
+                <a href="https://yandex.com/maps/-/CPA57TIN" 
                    target="_blank" 
                    class="map-link">
                   Открыть в Яндекс.Картах
@@ -88,7 +88,7 @@
               <div id="map-tehnicheskaya" style="width: 100%; height: 400px;"></div>
               <div class="map-info">
                 <p><strong>Адрес:</strong> г. Саратов, ул. Техническая, д. 5</p>
-                <a href="https://yandex.com/maps/-/CLxAR209" 
+                <a href="https://yandex.com/maps/-/CPA5v-1D" 
                    target="_blank" 
                    class="map-link">
                   Открыть в Яндекс.Картах
@@ -101,13 +101,13 @@
           <div class="address-section">
             <h3><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="display: inline-block; margin-right: 8px; vertical-align: middle;">
               <path d="M20 2H4c-1 0-2 .9-2 2v3.01c0 .72.43 1.34 1 1.69V20c0 1.1 1.1 2 2 2h14c.9 0 2-.9 2-2V8.7c.57-.35 1-.97 1-1.69V4c0-1.1-1-2-2-2zm-5 12H9v-2h6v2zm5-7H4V4h16v3z"/>
-            </svg> Офис: ул. Блинова, д. 52Б</h3>
+            </svg> Офис: ул. Блинова, д. 52А</h3>
             <div class="yandex-map">
               <!-- Яндекс.Карта для адреса ул. Блинова, 52Б -->
               <div id="map-blinova" style="width: 100%; height: 400px;"></div>
               <div class="map-info">
-                <p><strong>Адрес:</strong> г. Саратов, ул. Блинова, д. 52Б</p>
-                <a href="https://yandex.com/maps/-/CLxAVY1T" 
+                <p><strong>Адрес:</strong> г. Саратов, ул. Блинова, д. 52А</p>
+                <a href="https://yandex.com/maps/-/CPA57M81" 
                    target="_blank" 
                    class="map-link">
                   Открыть в Яндекс.Картах
@@ -163,11 +163,11 @@ const initMaps = () => {
   
   // Карта для ул. Техническая, 5
   const mapTehnicheskaya = new ymaps.Map('map-tehnicheskaya', {
-    center: [51.575876, 46.012212], // Координаты ул. Техническая, 5
+    center: [51.576461, 46.011934], // Координаты ул. Техническая, 5
     zoom: 17
   })
   
-  const placemarkTehnicheskaya = new ymaps.Placemark([51.575876, 46.012212], {
+  const placemarkTehnicheskaya = new ymaps.Placemark([51.576461, 46.011934], {
     balloonContent: '<strong>ул. Техническая, 5</strong><br>Производство Аквилон'
   }, {
     preset: 'islands#icon',
@@ -178,11 +178,11 @@ const initMaps = () => {
   
   // Карта для ул. Блинова, 52Б
   const mapBlinova = new ymaps.Map('map-blinova', {
-    center: [51.598125, 46.007433], // Координаты ул. Блинова, 52Б
+    center: [51.598688, 46.006659], // Координаты ул. Блинова, 52Б
     zoom: 17
   })
   
-  const placemarkBlinova = new ymaps.Placemark([51.598125, 46.007433], {
+  const placemarkBlinova = new ymaps.Placemark([51.598688, 46.006659], {
     balloonContent: '<strong>ул. Блинова, 52Б</strong><br>Склад Аквилон'
   }, {
     preset: 'islands#icon',
